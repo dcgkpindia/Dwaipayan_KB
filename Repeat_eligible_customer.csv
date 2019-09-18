@@ -1,0 +1,729 @@
+﻿CUSTOMER ID,LINK TO LMS,LAST APPROVED AMOUNT,Max of dpd,Max of emi_paid,CIBIL SCORE,ACTIVE LOANS,OFFER TAKEN,CARD ASSIGNED,CARD REGISTERED,Last nbfc,BANK,NACH REGISTRATION STATUS,PAYBACK POINT,VENDOR CODE,Max of service_issue,Max of system_resolvedticket,OPEN TICKET,RESOLVED TICKET,REOPEN TICKET,OVERDUE TICKET,CLOSED TICKET
+113,https://lms.stasheasy.com/lead/customerInfo/113/7263,50000,3,9,704,0,0,Y,N,,,,0,DCB,0,0,0,0,0,0,0
+1414,https://lms.stasheasy.com/lead/customerInfo/1414/4337,45000,8,10,673,0,0,Y,N,,,,0,DCB,0,0,0,0,0,0,0
+2112,https://lms.stasheasy.com/lead/customerInfo/2112/21820,50000,2,13,1,0,0,Y,Y,Akara Capital Advisors Private Limited,Punjab National Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+2888,https://lms.stasheasy.com/lead/customerInfo/2888/388778,23000,3,22,697,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,9
+3562,https://lms.stasheasy.com/lead/customerInfo/3562/129900,152234,3,33,617,0,2,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+4393,https://lms.stasheasy.com/lead/customerInfo/4393/686640,25161,3,42,672,0,1,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+6220,https://lms.stasheasy.com/lead/customerInfo/6220/45480,21741,3,18,717,0,0,Y,Y,Akara Capital Advisors Private Limited,State Bank of India,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+6712,https://lms.stasheasy.com/lead/customerInfo/6712/40297,75000,2,8,694,0,0,Y,N,Akara Capital Advisors Private Limited,Axis Bank Ltd.,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+6718,https://lms.stasheasy.com/lead/customerInfo/6718/16079,60000,5,8,702,0,0,Y,N,Akara Capital Advisors Private Limited,Canara Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+6882,https://lms.stasheasy.com/lead/customerInfo/6882/700021,33898,3,32,734,1,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+6914,https://lms.stasheasy.com/lead/customerInfo/6914/700049,49274,1,27,754,0,1,Y,Y,Akara Capital Advisors Private Limited,Deutsche Bank,ACCEPTED,0,DCB,0,0,0,1,0,0,18
+6980,https://lms.stasheasy.com/lead/customerInfo/6980/48187,50000,4,14,754,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+7098,https://lms.stasheasy.com/lead/customerInfo/7098/277165,13043,1,8,583,0,1,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+8858,https://lms.stasheasy.com/lead/customerInfo/8858/23647,40000,3,12,674,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+9712,https://lms.stasheasy.com/lead/customerInfo/9712/440810,16250,1,10,588,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank Ltd,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+9732,https://lms.stasheasy.com/lead/customerInfo/9732/515481,23114,1,9,687,0,2,Y,Y,Akara Capital Advisors Private Limited,"PUN-Punjab National Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,9
+9823,https://lms.stasheasy.com/lead/customerInfo/9823/277119,25109,2,10,676,0,1,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+9966,https://lms.stasheasy.com/lead/customerInfo/9966/50958,39729,6,12,1,0,1,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+11224,https://lms.stasheasy.com/lead/customerInfo/11224/600301,20323,1,12,668,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+11646,https://lms.stasheasy.com/lead/customerInfo/11646/526762,21500,3,32,640,1,1,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,11
+11997,https://lms.stasheasy.com/lead/customerInfo/11997/42148,30000,3,15,607,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+13219,https://lms.stasheasy.com/lead/customerInfo/13219/35070,14000,1,12,668,0,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+13487,https://lms.stasheasy.com/lead/customerInfo/13487/140046,50000,3,12,714,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+13681,https://lms.stasheasy.com/lead/customerInfo/13681/129985,39869,3,13,704,0,2,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,2,0,0,1
+14840,https://lms.stasheasy.com/lead/customerInfo/14840/377905,15209,2,15,657,0,1,Y,Y,Akara Capital Advisors Private Limited,"CIT-Citibank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,8
+16887,https://lms.stasheasy.com/lead/customerInfo/16887/183066,26371,3,29,625,0,2,Y,Y,Akara Capital Advisors Private Limited,Axis Bank Ltd.,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+17305,https://lms.stasheasy.com/lead/customerInfo/17305/519116,12095,1,6,596,0,2,Y,Y,Akara Capital Advisors Private Limited,"CIT-Citibank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+17644,https://lms.stasheasy.com/lead/customerInfo/17644/466633,500,3,30,712,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+17646,https://lms.stasheasy.com/lead/customerInfo/17646/332293,11613,3,9,682,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+17694,https://lms.stasheasy.com/lead/customerInfo/17694/59210,100000,2,18,645,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+18200,https://lms.stasheasy.com/lead/customerInfo/18200/397192,18370,5,24,694,0,1,Y,Y,Akara Capital Advisors Private Limited,State Bank of India,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+18249,https://lms.stasheasy.com/lead/customerInfo/18249/68012,100000,3,16,649,0,0,Y,Y,Akara Capital Advisors Private Limited,Axis Bank Ltd.,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+18424,https://lms.stasheasy.com/lead/customerInfo/18424/393122,38152,2,29,679,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,0
+18735,https://lms.stasheasy.com/lead/customerInfo/18735/613752,14130,1,6,666,0,2,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+19743,https://lms.stasheasy.com/lead/customerInfo/19743/45520,14740,8,15,636,0,0,Y,Y,Akara Capital Advisors Private Limited,IDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+21848,https://lms.stasheasy.com/lead/customerInfo/21848/130631,49501,3,18,616,0,1,Y,N,Akara Capital Advisors Private Limited,Citi Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+22043,https://lms.stasheasy.com/lead/customerInfo/22043/130953,41048,3,23,704,0,2,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+22890,https://lms.stasheasy.com/lead/customerInfo/22890/677415,20500,3,12,631,1,0,Y,Y,Akara Capital Advisors Private Limited,Citi Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+23140,https://lms.stasheasy.com/lead/customerInfo/23140/343462,150000,2,27,633,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+23431,https://lms.stasheasy.com/lead/customerInfo/23431/687118,47999,3,63,691,1,1,Y,Y,Akara Capital Advisors Private Limited,Standard Chartered Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,3
+24220,https://lms.stasheasy.com/lead/customerInfo/24220/249613,28237,2,12,668,0,1,Y,Y,Akara Capital Advisors Private Limited,Axis Bank Ltd.,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+24526,https://lms.stasheasy.com/lead/customerInfo/24526/338005,49032,1,9,608,0,1,Y,Y,Akara Capital Advisors Private Limited,Citi Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+25602,https://lms.stasheasy.com/lead/customerInfo/25602/707108,33205,3,15,682,0,1,Y,N,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+26189,https://lms.stasheasy.com/lead/customerInfo/26189/193644,16290,1,9,687,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+26565,https://lms.stasheasy.com/lead/customerInfo/26565/632717,21000,3,63,600,4,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,1,0,0,4
+26950,https://lms.stasheasy.com/lead/customerInfo/26950/701423,35000,6,13,669,3,1,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","HDFC,HDFC Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,45
+27438,https://lms.stasheasy.com/lead/customerInfo/27438/98157,36614,3,23,720,0,2,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+27636,https://lms.stasheasy.com/lead/customerInfo/27636/516312,12140,1,9,628,0,2,Y,Y,Akara Capital Advisors Private Limited,"KKB-kotak mahindra,Kotak Mahindra Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+27758,https://lms.stasheasy.com/lead/customerInfo/27758/66548,15000,3,32,621,1,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+28115,https://lms.stasheasy.com/lead/customerInfo/28115/703035,25301,6,25,692,0,1,Y,Y,Akara Capital Advisors Private Limited,State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+28297,https://lms.stasheasy.com/lead/customerInfo/28297/331004,12903,1,9,513,0,1,Y,N,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,1,0,0,0,0,3
+28493,https://lms.stasheasy.com/lead/customerInfo/28493/691306,17473,1,9,623,0,2,Y,N,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,1,0
+28711,https://lms.stasheasy.com/lead/customerInfo/28711/695194,23414,3,10,684,1,1,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","SYN-Syndicate Bank,Syndicate Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,3
+28731,https://lms.stasheasy.com/lead/customerInfo/28731/699059,19076,1,12,678,0,1,Y,N,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,2,0,0,7
+28840,https://lms.stasheasy.com/lead/customerInfo/28840/256572,16535,1,9,593,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+29679,https://lms.stasheasy.com/lead/customerInfo/29679/556769,22866,3,11,637,1,2,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","HDF-HDFC Bank,HDF-HDFC Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,2,2,0,6
+30500,https://lms.stasheasy.com/lead/customerInfo/30500/706843,23694,8,42,652,1,2,Y,Y,Akara Capital Advisors Private Limited,"Central Bank of India,Central Bank of India, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+32087,https://lms.stasheasy.com/lead/customerInfo/32087/417268,16000,8,39,715,1,1,Y,Y,Akara Capital Advisors Private Limited,State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+32167,https://lms.stasheasy.com/lead/customerInfo/32167/59546,20000,2,15,692,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+32602,https://lms.stasheasy.com/lead/customerInfo/32602/600296,71505,3,10,656,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,8
+33474,https://lms.stasheasy.com/lead/customerInfo/33474/440798,19076,3,20,591,0,1,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,3
+33597,https://lms.stasheasy.com/lead/customerInfo/33597/292539,21522,1,9,631,0,1,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,10
+33854,https://lms.stasheasy.com/lead/customerInfo/33854/398294,44287,3,38,679,1,2,Y,Y,Akara Capital Advisors Private Limited,IDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+35059,https://lms.stasheasy.com/lead/customerInfo/35059/330389,12903,6,15,737,0,1,Y,Y,Akara Capital Advisors Private Limited,"KKB-Kotak Mahindra / Ing Vysya Bank, India",REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+35161,https://lms.stasheasy.com/lead/customerInfo/35161/60152,40000,2,6,2,0,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+35721,https://lms.stasheasy.com/lead/customerInfo/35721/377872,14130,3,14,605,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+35734,https://lms.stasheasy.com/lead/customerInfo/35734/58828,46332,7,18,654,0,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","Corporation Bank,ICICI BANK",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+36147,https://lms.stasheasy.com/lead/customerInfo/36147/204796,12258,3,16,687,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+36348,https://lms.stasheasy.com/lead/customerInfo/36348/60181,47500,3,18,730,0,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+36583,https://lms.stasheasy.com/lead/customerInfo/36583/700246,17473,4,28,694,0,2,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+37222,https://lms.stasheasy.com/lead/customerInfo/37222/573990,19158,3,15,652,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+37423,https://lms.stasheasy.com/lead/customerInfo/37423/129887,40489,4,19,658,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+38561,https://lms.stasheasy.com/lead/customerInfo/38561/287856,20307,3,24,713,1,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account",State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+39255,https://lms.stasheasy.com/lead/customerInfo/39255/57713,106298,3,43,686,2,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+39513,https://lms.stasheasy.com/lead/customerInfo/39513/700377,48925,3,32,699,0,2,Y,Y,Akara Capital Advisors Private Limited,Standard Chartered Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+39715,https://lms.stasheasy.com/lead/customerInfo/39715/291205,17609,3,12,745,0,1,Y,Y,Akara Capital Advisors Private Limited,Citi Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+40494,https://lms.stasheasy.com/lead/customerInfo/40494/514097,43358,1,9,595,0,2,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank,ICICI Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,18
+41517,https://lms.stasheasy.com/lead/customerInfo/41517/378498,84076,3,26,632,0,1,Y,Y,Akara Capital Advisors Private Limited,Axis Bank Ltd.,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+42459,https://lms.stasheasy.com/lead/customerInfo/42459/252546,39130,3,23,637,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+42478,https://lms.stasheasy.com/lead/customerInfo/42478/87073,20683,3,14,671,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+42837,https://lms.stasheasy.com/lead/customerInfo/42837/442235,45924,3,35,644,1,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+42841,https://lms.stasheasy.com/lead/customerInfo/42841/57719,50913,3,32,696,0,1,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+43193,https://lms.stasheasy.com/lead/customerInfo/43193/698510,48925,5,15,685,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+45788,https://lms.stasheasy.com/lead/customerInfo/45788/202616,20806,3,15,733,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+46124,https://lms.stasheasy.com/lead/customerInfo/46124/159639,20000,3,21,725,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+46377,https://lms.stasheasy.com/lead/customerInfo/46377/441828,16250,3,12,570,0,1,Y,Y,Akara Capital Advisors Private Limited,INDUSIND BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+46647,https://lms.stasheasy.com/lead/customerInfo/46647/165160,6000,2,24,643,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+46922,https://lms.stasheasy.com/lead/customerInfo/46922/235396,16500,3,60,772,1,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+46955,https://lms.stasheasy.com/lead/customerInfo/46955/502679,100000,2,9,704,0,0,Y,N,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account",AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+47252,https://lms.stasheasy.com/lead/customerInfo/47252/698951,20968,4,26,628,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,15
+47881,https://lms.stasheasy.com/lead/customerInfo/47881/291485,20217,3,9,678,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+49136,https://lms.stasheasy.com/lead/customerInfo/49136/707355,41294,3,31,684,2,2,Y,Y,Akara Capital Advisors Private Limited,AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+49707,https://lms.stasheasy.com/lead/customerInfo/49707/526769,5532,5,29,747,2,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","KOTAK MAHINDRA BANK,SCB-Standard Chartered Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+49824,https://lms.stasheasy.com/lead/customerInfo/49824/102265,60000,5,18,700,0,0,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED,Stashfin DMI EMI Escrow Account","HDFC,HDFC Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,4
+50456,https://lms.stasheasy.com/lead/customerInfo/50456/377899,19783,8,28,654,1,2,Y,Y,Akara Capital Advisors Private Limited,IDBI BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+50866,https://lms.stasheasy.com/lead/customerInfo/50866/341819,17419,4,23,631,1,2,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,1,0,0,0,7
+51966,https://lms.stasheasy.com/lead/customerInfo/51966/332004,28560,1,18,643,0,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,2,0,0,3
+52130,https://lms.stasheasy.com/lead/customerInfo/52130/232527,11834,2,14,739,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+52256,https://lms.stasheasy.com/lead/customerInfo/52256/545912,30000,4,9,735,1,0,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","HDF-HDFC Bank,HDFC,HDFC BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,8
+52346,https://lms.stasheasy.com/lead/customerInfo/52346/702928,20000,3,27,665,2,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,8
+52718,https://lms.stasheasy.com/lead/customerInfo/52718/698517,21667,1,13,669,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,1,0,1,0,0,6
+53175,https://lms.stasheasy.com/lead/customerInfo/53175/182073,60484,3,7,1,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+53274,https://lms.stasheasy.com/lead/customerInfo/53274/367345,100000,3,8,652,1,1,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","AXIS BANK,UTI-Axis Bank,UTIB",ACCEPTED,0,DCB,0,0,0,0,0,1,0
+54028,https://lms.stasheasy.com/lead/customerInfo/54028/514548,13297,1,9,632,0,2,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+54063,https://lms.stasheasy.com/lead/customerInfo/54063/441657,33560,3,31,536,0,1,Y,Y,Akara Capital Advisors Private Limited,Standard Chartered Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,3,4
+55791,https://lms.stasheasy.com/lead/customerInfo/55791/562496,17715,3,23,720,1,1,Y,N,Akara Capital Advisors Private Limited,AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+56246,https://lms.stasheasy.com/lead/customerInfo/56246/255588,19565,1,6,487,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+56992,https://lms.stasheasy.com/lead/customerInfo/56992/516701,28905,1,9,635,0,2,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,3
+57135,https://lms.stasheasy.com/lead/customerInfo/57135/378580,46716,3,24,626,0,2,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC BANK",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+57638,https://lms.stasheasy.com/lead/customerInfo/57638/611843,20000,3,13,653,2,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank, India,ICICI BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+57710,https://lms.stasheasy.com/lead/customerInfo/57710/386856,60000,6,23,694,1,2,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","AXIS BANK,UTIB",ACCEPTED,0,DCB,0,0,0,0,2,0,2
+58255,https://lms.stasheasy.com/lead/customerInfo/58255/325932,29677,3,16,671,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+58418,https://lms.stasheasy.com/lead/customerInfo/58418/583207,20184,3,18,721,1,2,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account",Federal Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+59309,https://lms.stasheasy.com/lead/customerInfo/59309/709931,12581,3,12,666,0,1,Y,Y,Akara Capital Advisors Private Limited,AXIS BANK,ACCEPTED,0,DCB,0,0,0,2,0,0,10
+61108,https://lms.stasheasy.com/lead/customerInfo/61108/514112,20233,9,9,642,0,2,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+61197,https://lms.stasheasy.com/lead/customerInfo/61197/377942,14873,3,15,629,0,1,Y,Y,Akara Capital Advisors Private Limited,"HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+62232,https://lms.stasheasy.com/lead/customerInfo/62232/706950,30628,3,13,733,0,1,Y,N,Akara Capital Advisors Private Limited,Punjab National Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+63202,https://lms.stasheasy.com/lead/customerInfo/63202/261925,34500,5,25,724,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","KKB-Kotak Mahindra  Bank,KKB-Kotak Mahindra / Ing Vysya Bank, India,KOTAK MAHINDRA BANK",ACCEPTED,0,DCB,0,0,0,2,1,0,4
+63526,https://lms.stasheasy.com/lead/customerInfo/63526/556420,20526,9,6,717,0,2,Y,N,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+63747,https://lms.stasheasy.com/lead/customerInfo/63747/99758,17000,0,21,533,0,0,Y,Y,Stashfin DMI EMI Escrow Account,UNION BANK OF INDIA,REJECTED,0,DCB,0,0,0,0,0,0,0
+64907,https://lms.stasheasy.com/lead/customerInfo/64907/709971,38441,1,6,762,0,2,Y,Y,Akara Capital Advisors Private Limited,"KKB-Kotak Mahindra / Ing Vysya Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+65234,https://lms.stasheasy.com/lead/customerInfo/65234/130612,9342,3,9,685,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+65681,https://lms.stasheasy.com/lead/customerInfo/65681/710099,13978,3,22,668,0,2,Y,Y,Akara Capital Advisors Private Limited,State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+66390,https://lms.stasheasy.com/lead/customerInfo/66390/556606,89632,3,12,637,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+68196,https://lms.stasheasy.com/lead/customerInfo/68196/262160,15500,5,9,697,0,0,Y,Y,Stashfin DMI EMI Escrow Account,YES BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+68224,https://lms.stasheasy.com/lead/customerInfo/68224/612424,24086,3,37,669,1,1,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+68378,https://lms.stasheasy.com/lead/customerInfo/68378/698918,20968,1,37,718,0,2,Y,Y,Akara Capital Advisors Private Limited,"IDBI, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,1,0,3,0,0,42
+68916,https://lms.stasheasy.com/lead/customerInfo/68916/705979,34963,3,13,673,1,1,Y,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,AKARASTASH","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+70531,https://lms.stasheasy.com/lead/customerInfo/70531/562550,30789,5,6,725,0,2,Y,N,Akara Capital Advisors Private Limited,AND-ANDHRA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+72406,https://lms.stasheasy.com/lead/customerInfo/72406/364308,132912,8,34,574,0,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED,Stashfin DMI EMI Escrow Account","HDFC BANK,ICI-ICICI Bank,ICIC,ICICI Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,1,0,0,7
+72940,https://lms.stasheasy.com/lead/customerInfo/72940/514041,12718,1,6,728,0,2,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank Ltd,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+73451,https://lms.stasheasy.com/lead/customerInfo/73451/187112,18500,2,27,777,0,0,Y,Y,Akara Capital Advisors Private Limited,Canara Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+73578,https://lms.stasheasy.com/lead/customerInfo/73578/698701,97849,2,32,734,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,3
+73873,https://lms.stasheasy.com/lead/customerInfo/73873/384308,300000,1,32,603,1,3,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","HDF-HDFC Bank,HDF-HDFC Bank, India,HDFC BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+74574,https://lms.stasheasy.com/lead/customerInfo/74574/703710,60000,8,21,664,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","COR-Corporation Bank,CORPORATION BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+75237,https://lms.stasheasy.com/lead/customerInfo/75237/504118,300000,0,72,729,0,1,Y,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","HDF-HDFC Bank,HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,4
+75667,https://lms.stasheasy.com/lead/customerInfo/75667/145302,45000,2,9,631,0,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+76139,https://lms.stasheasy.com/lead/customerInfo/76139/288806,29815,3,17,734,0,1,Y,Y,Akara Capital Advisors Private Limited,Canara Bank,ACCEPTED,0,DCB,0,0,0,2,0,0,5
+76283,https://lms.stasheasy.com/lead/customerInfo/76283/364874,67822,9,15,636,1,0,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","YES BANK,YES-Yes Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+76317,https://lms.stasheasy.com/lead/customerInfo/76317/556595,20526,8,24,679,0,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","PUN-Punjab National Bank,PUNJAB NATIONAL BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+76332,https://lms.stasheasy.com/lead/customerInfo/76332/378375,23916,1,21,544,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,2,0,0,21
+76442,https://lms.stasheasy.com/lead/customerInfo/76442/688632,17473,1,10,741,1,1,Y,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","PUN-Punjab National Bank,PUNJAB NATIONAL BANK",ACCEPTED,0,DCB,0,0,0,0,0,0,4
+76735,https://lms.stasheasy.com/lead/customerInfo/76735/556811,20526,2,11,632,1,2,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,9
+77564,https://lms.stasheasy.com/lead/customerInfo/77564/299562,30000,9,18,742,0,0,Y,Y,Stashfin DMI EMI Escrow Account,YES BANK,ACCEPTED,0,DCB,0,0,0,1,0,0,1
+77890,https://lms.stasheasy.com/lead/customerInfo/77890/101908,25961,5,6,1,0,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+78019,https://lms.stasheasy.com/lead/customerInfo/78019/291782,11739,2,7,694,0,1,Y,N,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,CANCELLED,0,DCB,0,0,0,0,0,0,0
+78486,https://lms.stasheasy.com/lead/customerInfo/78486/293836,300000,2,21,684,1,0,Y,Y,Akara Capital Advisors Private Limited,DENA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+80572,https://lms.stasheasy.com/lead/customerInfo/80572/806351,9500,0,49,726,9,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,1,0,0,0,0,32
+80928,https://lms.stasheasy.com/lead/customerInfo/80928/148346,15000,3,12,694,0,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+80931,https://lms.stasheasy.com/lead/customerInfo/80931/814324,15866,1,18,677,0,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","HDF-HDFC Bank,HDFC Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,9
+81104,https://lms.stasheasy.com/lead/customerInfo/81104/709732,14328,1,6,708,0,1,Y,Y,Akara Capital Advisors Private Limited,JAK-J&K Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,13
+81253,https://lms.stasheasy.com/lead/customerInfo/81253/525800,172360,3,18,715,1,1,Y,N,"Akara Capital Advisors Private Limited,DMISTASH,Stashfin DMI EMI Escrow Account",BANK OF BARODA,ACCEPTED,0,DCB,0,0,0,0,0,0,6
+82200,https://lms.stasheasy.com/lead/customerInfo/82200/261050,11500,9,12,733,0,0,Y,Y,Akara Capital Advisors Private Limited,INDUSIND BANK,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+82222,https://lms.stasheasy.com/lead/customerInfo/82222/249085,500,2,39,694,0,0,Y,Y,Akara Capital Advisors Private Limited,INDUSIND BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+82328,https://lms.stasheasy.com/lead/customerInfo/82328/710333,27957,0,101,676,4,1,Y,Y,Akara Capital Advisors Private Limited,Standard Chartered Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+83118,https://lms.stasheasy.com/lead/customerInfo/83118/249002,29670,3,25,666,1,1,Y,Y,Stashfin DMI EMI Escrow Account,Standard Chartered Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,2
+83134,https://lms.stasheasy.com/lead/customerInfo/83134/194274,30000,1,21,681,2,0,Y,Y,Akara Capital Advisors Private Limited,"ICICI BANK,ICICI Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,2
+83165,https://lms.stasheasy.com/lead/customerInfo/83165/611959,90000,8,12,713,0,0,Y,Y,Akara Capital Advisors Private Limited,ALLAHABAD BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+83240,https://lms.stasheasy.com/lead/customerInfo/83240/163450,20000,6,12,715,0,0,Y,Y,Akara Capital Advisors Private Limited,DENA BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+83572,https://lms.stasheasy.com/lead/customerInfo/83572/415706,50000,3,18,759,1,0,Y,Y,"Akara Capital Advisors Private Limited,DMISTASH,Stashfin DMI EMI Escrow Account","CBI-Central Bank of India,Central Bank of India",ACCEPTED,0,DCB,0,0,0,0,0,0,5
+83996,https://lms.stasheasy.com/lead/customerInfo/83996/685880,55914,2,29,652,1,1,Y,Y,Akara Capital Advisors Private Limited,HDFC  BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+84237,https://lms.stasheasy.com/lead/customerInfo/84237/700556,24462,4,23,663,0,1,Y,Y,Akara Capital Advisors Private Limited,"UTI-Axis Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+84401,https://lms.stasheasy.com/lead/customerInfo/84401/288819,26087,2,16,748,1,1,Y,N,Akara Capital Advisors Private Limited,"ICI-ICICI Bank, India",ACCEPTED,0,DCB,0,0,0,1,0,0,0
+84965,https://lms.stasheasy.com/lead/customerInfo/84965/563405,44132,3,10,677,0,1,Y,N,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,1,0,0,0
+86700,https://lms.stasheasy.com/lead/customerInfo/86700/709796,13978,6,18,635,0,1,Y,Y,Stashfin DMI EMI Escrow Account,State Bank of India,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,2,0,2,0,1,8
+86757,https://lms.stasheasy.com/lead/customerInfo/86757/251529,72264,0,65,688,0,2,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","ICI-ICICI Bank,ICI-ICICI Bank, India,ICICI BANK,ICICI Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+87255,https://lms.stasheasy.com/lead/customerInfo/87255/325746,11613,6,7,498,0,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","IND-IndusInd Bank,INDUSIND BANK",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+87711,https://lms.stasheasy.com/lead/customerInfo/87711/696538,31751,2,25,773,0,1,Y,Y,Akara Capital Advisors Private Limited,INDUSIND BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+88136,https://lms.stasheasy.com/lead/customerInfo/88136/585847,27876,8,15,679,0,1,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,4,0,0,6
+88200,https://lms.stasheasy.com/lead/customerInfo/88200/135842,1037,2,6,780,0,0,Y,Y,Akara Capital Advisors Private Limited,YES BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+90218,https://lms.stasheasy.com/lead/customerInfo/90218/447115,13989,1,6,626,0,2,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank Ltd,ACCEPTED,0,DCB,0,0,0,0,0,0,10
+90379,https://lms.stasheasy.com/lead/customerInfo/90379/176470,50000,3,12,689,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+90766,https://lms.stasheasy.com/lead/customerInfo/90766/440812,21902,2,15,614,0,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+90960,https://lms.stasheasy.com/lead/customerInfo/90960/187982,2000,0,7,719,0,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+91240,https://lms.stasheasy.com/lead/customerInfo/91240/492414,11000,1,24,721,1,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+91593,https://lms.stasheasy.com/lead/customerInfo/91593/526115,11500,8,20,746,2,0,Y,Y,Akara Capital Advisors Private Limited,"UBI-Union Bank of India,UNION BANK",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+92509,https://lms.stasheasy.com/lead/customerInfo/92509/753773,1000,2,43,694,2,1,Y,Y,Akara Capital Advisors Private Limited,"SBI-State Bank of India,STATE BANK OF INDIA",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,1,0,0,0,0,15
+93242,https://lms.stasheasy.com/lead/customerInfo/93242/709235,13978,0,12,676,0,2,Y,Y,Akara Capital Advisors Private Limited,"KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,3
+94620,https://lms.stasheasy.com/lead/customerInfo/94620/614610,18817,3,21,679,1,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,4,0
+95160,https://lms.stasheasy.com/lead/customerInfo/95160/290556,16304,0,60,704,0,1,Y,Y,Stashfin DMI EMI Escrow Account,State Bank of India,REJECTED,0,DCB,0,0,0,0,0,0,1
+95818,https://lms.stasheasy.com/lead/customerInfo/95818/393139,14130,2,17,-1,0,1,Y,Y,Akara Capital Advisors Private Limited,VIJAYA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,4
+96433,https://lms.stasheasy.com/lead/customerInfo/96433/709920,42600,4,13,666,1,2,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","CIT-Citibank,CITI BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,1
+96694,https://lms.stasheasy.com/lead/customerInfo/96694/303757,62000,5,9,722,1,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+96796,https://lms.stasheasy.com/lead/customerInfo/96796/515414,11562,1,12,717,0,1,Y,Y,Akara Capital Advisors Private Limited,"SYN-Syndicate Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,1,0,0,0
+96981,https://lms.stasheasy.com/lead/customerInfo/96981/698511,48925,1,19,684,0,1,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank, India,ICICI Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+99394,https://lms.stasheasy.com/lead/customerInfo/99394/582450,30789,1,62,654,2,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+99787,https://lms.stasheasy.com/lead/customerInfo/99787/216752,10000,0,10,1,0,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+100070,https://lms.stasheasy.com/lead/customerInfo/100070/394311,8000,4,30,499,2,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","SCB-STANDARD CHARTERED BANK,Standard Chartered Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,17
+100082,https://lms.stasheasy.com/lead/customerInfo/100082/731277,8000,2,39,-1,2,0,Y,Y,Akara Capital Advisors Private Limited,Standard Chartered Bank,REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+100145,https://lms.stasheasy.com/lead/customerInfo/100145/154201,14000,0,39,666,0,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+104538,https://lms.stasheasy.com/lead/customerInfo/104538/329760,32258,6,15,590,0,1,Y,Y,Akara Capital Advisors Private Limited,"Indusind Bank,IndusInd Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,4
+104829,https://lms.stasheasy.com/lead/customerInfo/104829/290407,1000,2,9,675,0,0,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,3
+105212,https://lms.stasheasy.com/lead/customerInfo/105212/667814,100000,2,15,664,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI BANK,KKB-Kotak Mahindra Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,4
+105889,https://lms.stasheasy.com/lead/customerInfo/105889/290573,13848,5,12,727,0,1,Y,Y,Akara Capital Advisors Private Limited,BKI-BANK OF INDIA,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+106199,https://lms.stasheasy.com/lead/customerInfo/106199/169101,500,0,17,-1,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+106274,https://lms.stasheasy.com/lead/customerInfo/106274/698573,19081,1,12,726,0,2,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+106338,https://lms.stasheasy.com/lead/customerInfo/106338/252454,20000,2,15,707,0,0,Y,Y,Akara Capital Advisors Private Limited,PUN-PUNJAB NATIONAL BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+106344,https://lms.stasheasy.com/lead/customerInfo/106344/291627,21649,2,21,666,0,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+106353,https://lms.stasheasy.com/lead/customerInfo/106353/291756,20500,7,38,745,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,3,0,0,0,0,1
+106366,https://lms.stasheasy.com/lead/customerInfo/106366/426424,29000,9,21,596,1,0,Y,Y,Akara Capital Advisors Private Limited,"SBI-State Bank of India,STATE BANK OF INDIA",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,17
+106404,https://lms.stasheasy.com/lead/customerInfo/106404/554869,50000,6,20,729,1,1,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank,ICICI Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,6
+106474,https://lms.stasheasy.com/lead/customerInfo/106474/137889,29500,2,6,676,0,0,Y,Y,Akara Capital Advisors Private Limited,IDF-IDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+106940,https://lms.stasheasy.com/lead/customerInfo/106940/463701,5500,2,17,676,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","YES BANK,YES-Yes Bank",REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+107463,https://lms.stasheasy.com/lead/customerInfo/107463/186719,15000,1,7,667,0,0,Y,Y,Akara Capital Advisors Private Limited,"KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",REJECTED,0,DCB,0,0,0,0,0,0,0
+108084,https://lms.stasheasy.com/lead/customerInfo/108084/521823,49500,3,24,622,2,1,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","PUN-Punjab National Bank,PUNJAB NATIONAL BANK",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+110014,https://lms.stasheasy.com/lead/customerInfo/110014/157625,61500,0,7,712,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+110117,https://lms.stasheasy.com/lead/customerInfo/110117/647030,100000,8,20,702,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","KAR-Karnataka Bank,KARNATAKA BANK,Karnataka Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+112470,https://lms.stasheasy.com/lead/customerInfo/112470/151485,73357,3,6,515,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,1,0
+112777,https://lms.stasheasy.com/lead/customerInfo/112777/703986,67097,1,12,707,1,1,Y,Y,Akara Capital Advisors Private Limited,YES-Yes Bank,ACCEPTED,0,DCB,0,0,0,0,0,1,3
+113537,https://lms.stasheasy.com/lead/customerInfo/113537/155891,64275,2,12,638,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+113663,https://lms.stasheasy.com/lead/customerInfo/113663/162724,52301,9,18,577,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+114803,https://lms.stasheasy.com/lead/customerInfo/114803/254846,16304,3,15,669,0,1,Y,Y,Stashfin DMI EMI Escrow Account,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+115261,https://lms.stasheasy.com/lead/customerInfo/115261/267154,10500,3,6,-1,0,0,Y,Y,Akara Capital Advisors Private Limited,"PUN-PNB,Punjab National Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,5
+115583,https://lms.stasheasy.com/lead/customerInfo/115583/294700,13043,3,12,676,0,1,Y,Y,Akara Capital Advisors Private Limited,"KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,5
+115915,https://lms.stasheasy.com/lead/customerInfo/115915/715228,13000,3,53,730,2,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+115971,https://lms.stasheasy.com/lead/customerInfo/115971/165831,500,5,12,676,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+116230,https://lms.stasheasy.com/lead/customerInfo/116230/503804,250000,4,14,671,1,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","KOTAK MAHINDRA BANK,ORIENTAL BANK OF COMMERCE",ACCEPTED,0,DCB,0,0,0,0,0,0,3
+116347,https://lms.stasheasy.com/lead/customerInfo/116347/407787,150000,4,23,584,0,0,Y,Y,Stashfin DMI EMI Escrow Account,ICICI Bank,ACCEPTED,0,DCB,0,0,0,1,0,2,5
+116775,https://lms.stasheasy.com/lead/customerInfo/116775/395898,30000,4,25,629,3,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+116854,https://lms.stasheasy.com/lead/customerInfo/116854/527268,1500,1,45,599,0,0,Y,Y,Akara Capital Advisors Private Limited,"Axis Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+118596,https://lms.stasheasy.com/lead/customerInfo/118596/326334,22581,1,9,627,0,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC Bank Ltd",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+119062,https://lms.stasheasy.com/lead/customerInfo/119062/247145,20000,2,11,694,1,0,Y,Y,Akara Capital Advisors Private Limited,Standard Chartered Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+119162,https://lms.stasheasy.com/lead/customerInfo/119162/599694,54737,1,11,619,1,1,Y,Y,Akara Capital Advisors Private Limited,"ALL-Allahabad Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+119844,https://lms.stasheasy.com/lead/customerInfo/119844/345913,104500,3,35,691,1,0,Y,Y,Akara Capital Advisors Private Limited,"KKB-Kotak Mahindra  Ing Vysya Bank, India",REJECTED,0,DCB,0,0,0,0,0,0,9
+120016,https://lms.stasheasy.com/lead/customerInfo/120016/566565,99500,1,32,700,1,0,Y,Y,"EQX ANALYTICS PRIVATE LIMITED,Stashfin DMI EMI Escrow Account","ICIC,ICICI BANK",ACCEPTED,0,DCB,0,0,0,0,0,1,8
+121133,https://lms.stasheasy.com/lead/customerInfo/121133/442353,19783,0,8,631,0,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,REJECTED,0,DCB,0,0,0,0,0,0,1
+121556,https://lms.stasheasy.com/lead/customerInfo/121556/662435,50000,2,18,660,1,1,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank,ICI-ICICI Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,8
+121740,https://lms.stasheasy.com/lead/customerInfo/121740/179520,1500,3,6,2,0,0,Y,Y,Akara Capital Advisors Private Limited,"SBI-State Bank of India,STATE BANK OF INDIA",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+122186,https://lms.stasheasy.com/lead/customerInfo/122186/436772,1000,3,39,715,0,0,Y,Y,Akara Capital Advisors Private Limited,BKI-BOI,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+123277,https://lms.stasheasy.com/lead/customerInfo/123277/154672,26000,0,10,672,0,0,Y,Y,Akara Capital Advisors Private Limited,UBI-UNION BANK OF INDIA,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+123316,https://lms.stasheasy.com/lead/customerInfo/123316/325827,18065,3,19,578,0,1,Y,Y,Akara Capital Advisors Private Limited,"ICICI Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+123763,https://lms.stasheasy.com/lead/customerInfo/123763/157765,15000,3,15,655,0,0,Y,Y,Akara Capital Advisors Private Limited,"ICICI BANK,ICICI Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,2
+123795,https://lms.stasheasy.com/lead/customerInfo/123795/369922,1500,3,32,689,1,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,2
+124478,https://lms.stasheasy.com/lead/customerInfo/124478/510604,10000,5,18,737,1,1,Y,Y,Akara Capital Advisors Private Limited,BAR-BANK OF BARODA,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+125566,https://lms.stasheasy.com/lead/customerInfo/125566/629706,5000,4,76,584,2,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,1,1,1,18
+125641,https://lms.stasheasy.com/lead/customerInfo/125641/342005,35000,4,10,715,1,0,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","SBI-State Bank of India, India,STATE BANK OF INDIA",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+125967,https://lms.stasheasy.com/lead/customerInfo/125967/335767,31000,1,6,671,0,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+126247,https://lms.stasheasy.com/lead/customerInfo/126247/377784,50000,5,13,709,1,1,Y,N,"Akara Capital Advisors Private Limited,DMISTASH,Stashfin DMI EMI Escrow Account","PUN-Punjab National Bank, India,Punjab National Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+126269,https://lms.stasheasy.com/lead/customerInfo/126269/293493,14658,0,10,686,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,1,0,0,0,0,6
+126348,https://lms.stasheasy.com/lead/customerInfo/126348/504028,200000,4,22,676,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","HDF-HDFC Bank,HDFC,HDFC BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+126397,https://lms.stasheasy.com/lead/customerInfo/126397/173736,26435,0,9,644,0,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+126627,https://lms.stasheasy.com/lead/customerInfo/126627/170658,16000,4,7,-1,0,0,Y,Y,Akara Capital Advisors Private Limited,State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+127845,https://lms.stasheasy.com/lead/customerInfo/127845/339706,12903,2,15,603,0,2,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,2
+128633,https://lms.stasheasy.com/lead/customerInfo/128633/335375,10032,0,13,772,0,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,REJECTED,0,"DCB,M2P FEDERAL",0,1,0,0,0,0,5
+128673,https://lms.stasheasy.com/lead/customerInfo/128673/434069,5000,0,10,-1,0,0,Y,Y,Akara Capital Advisors Private Limited,BAR-BANK OF BARODA,REJECTED,0,DCB,0,0,0,0,0,0,0
+128760,https://lms.stasheasy.com/lead/customerInfo/128760/177935,5,4,9,677,0,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+128884,https://lms.stasheasy.com/lead/customerInfo/128884/279709,18000,3,7,636,0,0,Y,Y,Akara Capital Advisors Private Limited,"HDFC Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,1,0,0,3
+128885,https://lms.stasheasy.com/lead/customerInfo/128885/556431,17105,3,18,584,0,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,Punjab National Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,1,0,0,0,0,4
+130609,https://lms.stasheasy.com/lead/customerInfo/130609/325874,6953,3,15,779,0,1,Y,Y,Akara Capital Advisors Private Limited,"KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+133799,https://lms.stasheasy.com/lead/customerInfo/133799/186119,207340,4,6,697,0,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+133879,https://lms.stasheasy.com/lead/customerInfo/133879/702283,25705,0,19,694,1,1,Y,Y,Akara Capital Advisors Private Limited,"SCB-Standard Chartered Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",3,0,0,0,0,0,3
+134566,https://lms.stasheasy.com/lead/customerInfo/134566/262504,50000,0,10,676,0,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+134664,https://lms.stasheasy.com/lead/customerInfo/134664/185094,93303,9,6,655,0,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC BANK",REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+134744,https://lms.stasheasy.com/lead/customerInfo/134744/252593,16630,1,7,1,0,1,Y,Y,Akara Capital Advisors Private Limited,Yes Bank Ltd,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+134780,https://lms.stasheasy.com/lead/customerInfo/134780/287101,13500,1,27,712,2,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC Bank Ltd",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+134901,https://lms.stasheasy.com/lead/customerInfo/134901/166643,23500,7,21,604,0,0,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+135969,https://lms.stasheasy.com/lead/customerInfo/135969/299829,19445,4,9,721,1,0,Y,Y,Akara Capital Advisors Private Limited,"CIT-Citibank, India,CITI Bank",Pending,0,DCB,0,0,0,0,0,0,0
+136081,https://lms.stasheasy.com/lead/customerInfo/136081/188428,16080,3,6,-1,0,0,Y,Y,Akara Capital Advisors Private Limited,CANARA  BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+136299,https://lms.stasheasy.com/lead/customerInfo/136299/599403,47895,5,15,729,1,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+136573,https://lms.stasheasy.com/lead/customerInfo/136573/342493,14516,3,15,666,0,1,Y,Y,Stashfin DMI EMI Escrow Account,BANK OF BARODA,REJECTED,0,DCB,0,0,0,0,0,0,3
+136587,https://lms.stasheasy.com/lead/customerInfo/136587/193856,19312,7,6,680,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,3
+136608,https://lms.stasheasy.com/lead/customerInfo/136608/335310,140500,2,25,723,2,1,Y,Y,Akara Capital Advisors Private Limited,Oriental Bank of Commerce,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+136639,https://lms.stasheasy.com/lead/customerInfo/136639/274757,200000,9,31,622,0,0,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+136640,https://lms.stasheasy.com/lead/customerInfo/136640/565413,28000,1,46,708,0,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+136760,https://lms.stasheasy.com/lead/customerInfo/136760/293337,58270,3,11,726,0,1,Y,N,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+136820,https://lms.stasheasy.com/lead/customerInfo/136820/193867,195084,9,12,785,1,0,Y,Y,Akara Capital Advisors Private Limited,AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+136934,https://lms.stasheasy.com/lead/customerInfo/136934/237922,79000,5,6,615,0,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,1,0,0,0,0,6
+138088,https://lms.stasheasy.com/lead/customerInfo/138088/565496,27368,8,18,686,0,1,Y,Y,Akara Capital Advisors Private Limited,"Saraswat Bank, India,SRC-Saraswat Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,2
+138106,https://lms.stasheasy.com/lead/customerInfo/138106/451328,32000,7,24,777,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+138729,https://lms.stasheasy.com/lead/customerInfo/138729/291287,55900,3,15,718,1,1,Y,N,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+139151,https://lms.stasheasy.com/lead/customerInfo/139151/378094,48043,5,12,524,0,1,Y,Y,Akara Capital Advisors Private Limited,"Axis Bank Ltd,UTI-Axis Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,2
+139395,https://lms.stasheasy.com/lead/customerInfo/139395/445285,22962,5,15,636,0,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","ICICI BANK,State Bank of India, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+139431,https://lms.stasheasy.com/lead/customerInfo/139431/483309,500,1,18,678,0,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+139705,https://lms.stasheasy.com/lead/customerInfo/139705/338485,11433,1,15,725,1,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+140131,https://lms.stasheasy.com/lead/customerInfo/140131/685502,31961,6,10,699,1,2,N,N,Stashfin DMI EMI Escrow Account,ICICI Bank,ACCEPTED,0,,0,0,0,0,0,0,1
+140580,https://lms.stasheasy.com/lead/customerInfo/140580/368896,240060,3,9,672,0,0,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","HDF-HDFC Bank,HDFC Bank",ACCEPTED,0,DCB,0,0,0,1,0,0,2
+140646,https://lms.stasheasy.com/lead/customerInfo/140646/195836,16588,3,9,790,0,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+142915,https://lms.stasheasy.com/lead/customerInfo/142915/199739,41468,1,12,747,0,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+143010,https://lms.stasheasy.com/lead/customerInfo/143010/233160,10000,1,9,634,0,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+143036,https://lms.stasheasy.com/lead/customerInfo/143036/210967,13000,1,7,610,0,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+143917,https://lms.stasheasy.com/lead/customerInfo/143917/700104,19781,3,15,665,1,1,Y,N,Stashfin DMI EMI Escrow Account,BANK OF INDIA,ACCEPTED,0,DCB,0,0,0,0,0,0,5
+144498,https://lms.stasheasy.com/lead/customerInfo/144498/220058,25918,3,18,-1,0,0,Y,Y,Akara Capital Advisors Private Limited,PUN-PUNJAB NATIONAL BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+144846,https://lms.stasheasy.com/lead/customerInfo/144846/393227,25435,3,11,675,0,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+145292,https://lms.stasheasy.com/lead/customerInfo/145292/556663,29421,6,17,677,1,1,Y,N,Akara Capital Advisors Private Limited,"TJS-TJSB Sahakari Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+145610,https://lms.stasheasy.com/lead/customerInfo/145610/208235,24897,3,11,655,1,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+145632,https://lms.stasheasy.com/lead/customerInfo/145632/709248,27252,1,15,667,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+146123,https://lms.stasheasy.com/lead/customerInfo/146123/613529,89144,0,15,676,1,1,Y,N,Stashfin DMI EMI Escrow Account,AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+146501,https://lms.stasheasy.com/lead/customerInfo/146501/578699,51931,1,12,634,0,1,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank, India,ICICI Bank Ltd",ACCEPTED,0,DCB,0,2,0,2,0,0,21
+147587,https://lms.stasheasy.com/lead/customerInfo/147587/290033,100500,0,7,696,0,1,Y,Y,,,,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,4
+147730,https://lms.stasheasy.com/lead/customerInfo/147730/580583,20253,6,18,676,1,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,1,0
+147891,https://lms.stasheasy.com/lead/customerInfo/147891/564437,35206,4,19,673,1,1,N,N,Akara Capital Advisors Private Limited,"YES-Yes Bank, India",ACCEPTED,0,,0,0,0,0,0,0,2
+148212,https://lms.stasheasy.com/lead/customerInfo/148212/378155,22341,7,12,687,0,1,Y,Y,Stashfin DMI EMI Escrow Account,YES BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,2,0,0,0
+148263,https://lms.stasheasy.com/lead/customerInfo/148263/556451,68421,2,15,675,1,1,Y,N,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+148525,https://lms.stasheasy.com/lead/customerInfo/148525/384600,14130,2,13,668,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+148530,https://lms.stasheasy.com/lead/customerInfo/148530/220033,21337,4,11,669,1,0,Y,Y,Akara Capital Advisors Private Limited,"KKB-KOTAK  MAHINDRA BANK,KKB-KOTAK MAHINDRA BANK",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+148535,https://lms.stasheasy.com/lead/customerInfo/148535/445584,16250,1,19,652,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,1,0,1,2
+148548,https://lms.stasheasy.com/lead/customerInfo/148548/351031,79000,0,44,676,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+148641,https://lms.stasheasy.com/lead/customerInfo/148641/256250,50000,0,6,777,0,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank Ltd,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+148688,https://lms.stasheasy.com/lead/customerInfo/148688/208244,75161,1,12,620,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+148772,https://lms.stasheasy.com/lead/customerInfo/148772/342633,10000,1,13,671,1,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+148815,https://lms.stasheasy.com/lead/customerInfo/148815/286362,1500,2,13,730,0,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,0
+148826,https://lms.stasheasy.com/lead/customerInfo/148826/688639,21196,1,18,696,1,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC,ACCEPTED,0,DCB,0,0,0,0,0,0,13
+148857,https://lms.stasheasy.com/lead/customerInfo/148857/223427,6500,0,8,707,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+149098,https://lms.stasheasy.com/lead/customerInfo/149098/279293,17105,5,10,633,1,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+149637,https://lms.stasheasy.com/lead/customerInfo/149637/812726,491963,3,10,667,1,2,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICIC,ICICI Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,6
+150205,https://lms.stasheasy.com/lead/customerInfo/150205/220100,64012,9,22,663,0,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+150237,https://lms.stasheasy.com/lead/customerInfo/150237/270389,22826,5,15,547,1,1,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+150277,https://lms.stasheasy.com/lead/customerInfo/150277/208264,71532,1,12,701,1,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,2,0,0,1
+150385,https://lms.stasheasy.com/lead/customerInfo/150385/686891,20000,1,16,626,1,1,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,1
+150416,https://lms.stasheasy.com/lead/customerInfo/150416/220134,28103,4,11,705,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+151675,https://lms.stasheasy.com/lead/customerInfo/151675/695055,21667,1,14,708,1,1,Y,N,Akara Capital Advisors Private Limited,ICICI Bank Ltd,ACCEPTED,0,DCB,0,0,0,0,0,1,0
+152432,https://lms.stasheasy.com/lead/customerInfo/152432/328948,9677,0,18,597,1,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank Ltd,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+152578,https://lms.stasheasy.com/lead/customerInfo/152578/722586,7000,0,14,-1,0,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,2,0,0,15
+152765,https://lms.stasheasy.com/lead/customerInfo/152765/288858,13477,0,11,589,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,1,6
+152772,https://lms.stasheasy.com/lead/customerInfo/152772/288966,150000,9,9,657,0,0,Y,Y,Akara Capital Advisors Private Limited,"KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+152803,https://lms.stasheasy.com/lead/customerInfo/152803/422204,5500,0,13,-1,0,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+153035,https://lms.stasheasy.com/lead/customerInfo/153035/333351,32000,7,9,636,0,1,Y,N,Akara Capital Advisors Private Limited,"SBI-State Bank of India, India",REJECTED,0,DCB,0,0,0,0,0,0,0
+153181,https://lms.stasheasy.com/lead/customerInfo/153181/279292,41468,2,10,610,1,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,1
+154725,https://lms.stasheasy.com/lead/customerInfo/154725/709866,39839,1,18,695,0,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,7
+154898,https://lms.stasheasy.com/lead/customerInfo/154898/257864,6000,0,6,698,0,0,Y,Y,Akara Capital Advisors Private Limited,PUN-PUNJAB NATIONAL BANK,REJECTED,0,DCB,0,0,0,0,0,0,0
+155168,https://lms.stasheasy.com/lead/customerInfo/155168/328140,2500,4,17,615,1,1,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+155188,https://lms.stasheasy.com/lead/customerInfo/155188/220144,14519,6,19,682,0,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+155189,https://lms.stasheasy.com/lead/customerInfo/155189/296428,26000,1,12,677,1,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+155194,https://lms.stasheasy.com/lead/customerInfo/155194/220076,27062,4,18,-1,1,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+155350,https://lms.stasheasy.com/lead/customerInfo/155350/220120,20734,1,12,675,1,0,Y,Y,Akara Capital Advisors Private Limited,AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+155368,https://lms.stasheasy.com/lead/customerInfo/155368/214546,23500,1,7,635,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,4
+155409,https://lms.stasheasy.com/lead/customerInfo/155409/243415,21500,0,12,676,0,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,3
+155820,https://lms.stasheasy.com/lead/customerInfo/155820/565521,28977,3,18,663,1,1,Y,Y,Akara Capital Advisors Private Limited,"Yes Bank Ltd,YES-Yes Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+156043,https://lms.stasheasy.com/lead/customerInfo/156043/220101,17660,0,14,614,1,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+156062,https://lms.stasheasy.com/lead/customerInfo/156062/374823,27000,4,8,694,1,0,Y,Y,,,,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+156529,https://lms.stasheasy.com/lead/customerInfo/156529/383910,21337,7,23,644,1,1,Y,Y,Akara Capital Advisors Private Limited,"Bank of India,BKI-Bank of India, India",ACCEPTED,0,DCB,0,0,0,1,0,0,2
+156591,https://lms.stasheasy.com/lead/customerInfo/156591/706598,24728,1,23,682,2,1,Y,Y,Akara Capital Advisors Private Limited,AND-ANDHRA BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+156762,https://lms.stasheasy.com/lead/customerInfo/156762/338393,23613,8,15,710,0,1,Y,Y,Akara Capital Advisors Private Limited,"IND-IndusInd Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,1,9
+157460,https://lms.stasheasy.com/lead/customerInfo/157460/220106,36325,4,11,727,1,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+158092,https://lms.stasheasy.com/lead/customerInfo/158092/696662,34946,8,12,688,1,1,Y,N,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+159377,https://lms.stasheasy.com/lead/customerInfo/159377/709090,10833,7,13,661,0,1,Y,Y,Akara Capital Advisors Private Limited,"SBI-State Bank of India, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,3
+159614,https://lms.stasheasy.com/lead/customerInfo/159614/586861,43342,2,15,721,0,1,Y,Y,Akara Capital Advisors Private Limited,"IBK-IDBI, India,IDBI, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,5
+160056,https://lms.stasheasy.com/lead/customerInfo/160056/709743,107527,1,15,695,0,1,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+160802,https://lms.stasheasy.com/lead/customerInfo/160802/440946,10598,8,14,-1,1,1,Y,Y,Akara Capital Advisors Private Limited,"AND-Andhra Bank,Andhra Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,7
+161004,https://lms.stasheasy.com/lead/customerInfo/161004/326047,70968,1,21,616,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+161078,https://lms.stasheasy.com/lead/customerInfo/161078/240679,17000,1,7,643,1,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,1
+161368,https://lms.stasheasy.com/lead/customerInfo/161368/694008,8500,1,14,725,2,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","Axis Bank,Axis Bank Ltd,UTI-Axis Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+162844,https://lms.stasheasy.com/lead/customerInfo/162844/599169,26386,8,14,660,1,1,Y,Y,Stashfin DMI EMI Escrow Account,INDIAN BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+163530,https://lms.stasheasy.com/lead/customerInfo/163530/322697,25000,8,14,669,1,0,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+164659,https://lms.stasheasy.com/lead/customerInfo/164659/689707,38441,0,10,684,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","ICI-ICICI Bank,ICIC,ICICI Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,6
+165819,https://lms.stasheasy.com/lead/customerInfo/165819/275564,23500,1,16,655,0,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+168618,https://lms.stasheasy.com/lead/customerInfo/168618/647472,200000,8,6,758,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+168987,https://lms.stasheasy.com/lead/customerInfo/168987/320083,4000,2,19,675,2,0,Y,Y,Akara Capital Advisors Private Limited,"SBI-State Bank of India,SBI-State Bank of India, India",REJECTED,0,DCB,0,0,0,0,0,0,1
+169164,https://lms.stasheasy.com/lead/customerInfo/169164/391985,25888,8,12,713,0,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,4
+169704,https://lms.stasheasy.com/lead/customerInfo/169704/614569,107527,5,13,698,1,1,Y,Y,Stashfin DMI EMI Escrow Account,Federal Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+170668,https://lms.stasheasy.com/lead/customerInfo/170668/599735,102632,1,16,702,1,2,Y,Y,"Akara Capital Advisors Private Limited,DMISTASH,Stashfin DMI EMI Escrow Account","Kotak Mahindra Bank,Kotak Mahindra Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,10
+170808,https://lms.stasheasy.com/lead/customerInfo/170808/556682,27368,0,18,636,0,1,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,CANCELLED,0,"DCB,M2P FEDERAL",0,1,0,0,0,0,11
+170899,https://lms.stasheasy.com/lead/customerInfo/170899/556908,70000,3,12,676,1,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,2,0,0,5
+171184,https://lms.stasheasy.com/lead/customerInfo/171184/233626,110927,1,10,652,0,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+171225,https://lms.stasheasy.com/lead/customerInfo/171225/233631,105225,1,11,655,1,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+171242,https://lms.stasheasy.com/lead/customerInfo/171242/233628,122849,1,11,645,1,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+171320,https://lms.stasheasy.com/lead/customerInfo/171320/660652,1000,6,25,636,3,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+171515,https://lms.stasheasy.com/lead/customerInfo/171515/237364,72569,1,20,635,1,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,4
+171518,https://lms.stasheasy.com/lead/customerInfo/171518/233636,60691,1,11,679,1,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+171647,https://lms.stasheasy.com/lead/customerInfo/171647/399805,11500,2,31,666,3,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+171733,https://lms.stasheasy.com/lead/customerInfo/171733/601254,107527,1,14,707,1,1,Y,Y,Stashfin DMI EMI Escrow Account,KOTAK MAHINDRA BANK,REJECTED,0,DCB,0,0,0,0,0,0,3
+171848,https://lms.stasheasy.com/lead/customerInfo/171848/396024,1500,1,8,771,0,0,Y,Y,Akara Capital Advisors Private Limited,"KKB-KOTAK MAHINDRA / ING VYSYA BANK, INDIA,KKB-KOTAK MAHINDRA BANK",ACCEPTED,0,DCB,0,0,0,0,0,0,5
+172050,https://lms.stasheasy.com/lead/customerInfo/172050/556794,34211,4,12,673,1,1,Y,Y,"DMISTASH,Stashfin DMI EMI Escrow Account",KOTAK MAHINDRA BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,1,0,0,0,0,37
+173419,https://lms.stasheasy.com/lead/customerInfo/173419/686877,51720,1,17,626,1,1,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank Ltd,ACCEPTED,0,DCB,0,0,0,1,0,0,5
+174543,https://lms.stasheasy.com/lead/customerInfo/174543/611849,34586,9,10,707,0,1,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+174557,https://lms.stasheasy.com/lead/customerInfo/174557/376863,26000,2,14,705,2,0,Y,Y,Akara Capital Advisors Private Limited,"UTI-Axis Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+174600,https://lms.stasheasy.com/lead/customerInfo/174600/689646,23880,8,12,688,1,2,N,N,Stashfin DMI EMI Escrow Account,ANDHRA BANK,ACCEPTED,0,,0,0,0,0,0,0,2
+175413,https://lms.stasheasy.com/lead/customerInfo/175413/529067,5500,1,15,613,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","HDF-HDFC Bank,HDFC,HDFC BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,1
+175934,https://lms.stasheasy.com/lead/customerInfo/175934/390810,150500,2,17,643,2,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+176032,https://lms.stasheasy.com/lead/customerInfo/176032/563815,10000,3,10,715,1,0,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","PUN-PUNJAB NATIONAL BANK,PUN-Punjab National Bank, India,Punjab National Bank,UTI-Axis Bank,UTIB",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,1,0
+176938,https://lms.stasheasy.com/lead/customerInfo/176938/249479,49762,1,10,676,1,0,Y,Y,Akara Capital Advisors Private Limited,IBK-IDBI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+178306,https://lms.stasheasy.com/lead/customerInfo/178306/603162,18817,1,13,715,1,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,1,0,0,0,0,4
+178314,https://lms.stasheasy.com/lead/customerInfo/178314/689558,34946,3,12,718,1,2,N,N,"1,Akara Capital Advisors Private Limited","ABH-ABHYODAYA CO- OPERATIVE BANK,ABH-Abhyudaya Co-operative Bank,Abhyudaya Co-operative Bank",ACCEPTED,0,,0,0,0,0,0,0,0
+178919,https://lms.stasheasy.com/lead/customerInfo/178919/248357,20500,0,12,646,0,0,Y,Y,Akara Capital Advisors Private Limited,IBK-IDBI BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+178968,https://lms.stasheasy.com/lead/customerInfo/178968/249485,52388,0,10,687,1,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+179001,https://lms.stasheasy.com/lead/customerInfo/179001/378079,14837,3,13,671,1,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account",Canara Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,2
+179004,https://lms.stasheasy.com/lead/customerInfo/179004/414314,5500,6,32,741,3,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,1,5
+179045,https://lms.stasheasy.com/lead/customerInfo/179045/556507,21895,1,16,680,1,1,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+179057,https://lms.stasheasy.com/lead/customerInfo/179057/786957,2500,0,44,682,0,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,REJECTED,0,DCB,0,0,0,0,0,0,2
+179063,https://lms.stasheasy.com/lead/customerInfo/179063/539537,48500,2,16,753,2,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+179217,https://lms.stasheasy.com/lead/customerInfo/179217/236077,67000,1,7,492,1,0,Y,Y,Akara Capital Advisors Private Limited,"KKB-Kotak Mahindra / Ing Vysya Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,1,3
+179280,https://lms.stasheasy.com/lead/customerInfo/179280/255786,75000,1,11,670,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+179390,https://lms.stasheasy.com/lead/customerInfo/179390/360714,18000,9,11,635,2,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+179825,https://lms.stasheasy.com/lead/customerInfo/179825/586051,34211,9,17,636,1,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account",Punjab National Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,4
+180117,https://lms.stasheasy.com/lead/customerInfo/180117/249500,114037,0,17,713,1,0,Y,Y,Akara Capital Advisors Private Limited,IBK-IDBI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+180458,https://lms.stasheasy.com/lead/customerInfo/180458/599773,17105,1,16,723,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+180565,https://lms.stasheasy.com/lead/customerInfo/180565/525446,5000,6,40,647,2,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,2,10
+180865,https://lms.stasheasy.com/lead/customerInfo/180865/566331,17105,1,13,691,0,1,Y,Y,Akara Capital Advisors Private Limited,IDF-IDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,4
+180881,https://lms.stasheasy.com/lead/customerInfo/180881/241647,61000,6,11,753,1,0,Y,Y,Akara Capital Advisors Private Limited,CIT-CITI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+181007,https://lms.stasheasy.com/lead/customerInfo/181007/256030,9000,1,18,676,0,0,Y,Y,"1,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+181032,https://lms.stasheasy.com/lead/customerInfo/181032/249510,104720,2,9,691,1,0,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+181043,https://lms.stasheasy.com/lead/customerInfo/181043/609045,9000,1,13,515,2,0,Y,Y,Akara Capital Advisors Private Limited,"Kotak Mahindra / Ing Vysya Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+181851,https://lms.stasheasy.com/lead/customerInfo/181851/600941,24086,8,6,739,0,1,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,2,0,0,16
+182266,https://lms.stasheasy.com/lead/customerInfo/182266/249515,36803,1,10,672,1,0,Y,Y,Akara Capital Advisors Private Limited,"CIT-Citibank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,4
+182630,https://lms.stasheasy.com/lead/customerInfo/182630/255869,77753,2,6,649,0,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+182741,https://lms.stasheasy.com/lead/customerInfo/182741/709785,17473,6,14,668,1,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,REJECTED,0,DCB,0,0,0,0,0,0,0
+183795,https://lms.stasheasy.com/lead/customerInfo/183795/556448,18816,3,89,690,3,1,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,2,0,0,1,0,6
+184683,https://lms.stasheasy.com/lead/customerInfo/184683/362517,4500,2,17,618,2,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank Ltd,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+185878,https://lms.stasheasy.com/lead/customerInfo/185878/390165,17310,4,20,620,2,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+186229,https://lms.stasheasy.com/lead/customerInfo/186229/611891,20263,1,14,699,1,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+187257,https://lms.stasheasy.com/lead/customerInfo/187257/257439,116109,2,10,694,1,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+187719,https://lms.stasheasy.com/lead/customerInfo/187719/264752,205178,2,9,655,1,0,Y,Y,Akara Capital Advisors Private Limited,"CIT-Citibank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+189435,https://lms.stasheasy.com/lead/customerInfo/189435/556745,65000,1,13,696,1,1,N,N,Akara Capital Advisors Private Limited,Citi Bank,ACCEPTED,0,,0,0,0,1,0,0,1
+189915,https://lms.stasheasy.com/lead/customerInfo/189915/814076,91571,9,7,671,1,1,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICIC,ICICI Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,2
+190497,https://lms.stasheasy.com/lead/customerInfo/190497/698239,28025,8,13,710,1,1,N,N,Akara Capital Advisors Private Limited,Punjab National Bank,ACCEPTED,0,,0,0,0,0,0,0,1
+193288,https://lms.stasheasy.com/lead/customerInfo/193288/567618,18979,4,12,703,1,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+193502,https://lms.stasheasy.com/lead/customerInfo/193502/294421,1500,1,15,725,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","IBK-IDBI,IDBI,IDBI, India",ACCEPTED,0,DCB,0,0,0,1,0,0,8
+193817,https://lms.stasheasy.com/lead/customerInfo/193817/689601,32558,1,14,736,1,1,N,N,Akara Capital Advisors Private Limited,HDFC Bank Ltd,ACCEPTED,0,,0,0,0,1,0,0,3
+194820,https://lms.stasheasy.com/lead/customerInfo/194820/566061,11464,0,6,699,0,2,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,5
+195228,https://lms.stasheasy.com/lead/customerInfo/195228/441666,11304,4,9,654,0,1,Y,Y,Akara Capital Advisors Private Limited,"SBI-State Bank of India, India",REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,4
+195402,https://lms.stasheasy.com/lead/customerInfo/195402/737520,1000,0,53,640,4,0,Y,Y,Akara Capital Advisors Private Limited,YES-Yes Bank,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,1,0,0,0,0,3
+195973,https://lms.stasheasy.com/lead/customerInfo/195973/627889,12500,1,28,689,2,0,Y,Y,"Akara Capital Advisors Private Limited,Akara Capital Advisors Pvt Ltd","HDF-HDFC BANK LTD,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,0,0,0,4
+197785,https://lms.stasheasy.com/lead/customerInfo/197785/709636,34204,6,12,685,1,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,2,4
+199120,https://lms.stasheasy.com/lead/customerInfo/199120/693537,49457,9,13,659,1,1,Y,Y,Stashfin DMI EMI Escrow Account,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+199141,https://lms.stasheasy.com/lead/customerInfo/199141/440936,14022,1,13,662,1,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+200790,https://lms.stasheasy.com/lead/customerInfo/200790/273246,62202,0,10,673,1,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,3
+200819,https://lms.stasheasy.com/lead/customerInfo/200819/288838,68422,1,10,595,1,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank Ltd,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+201131,https://lms.stasheasy.com/lead/customerInfo/201131/441197,17663,1,52,560,6,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank Ltd,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+201885,https://lms.stasheasy.com/lead/customerInfo/201885/684043,124950,1,12,694,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","IND-IndusInd Bank,INDUSIND BANK",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+202008,https://lms.stasheasy.com/lead/customerInfo/202008/556576,27368,3,7,670,0,1,Y,Y,Stashfin DMI EMI Escrow Account,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,2,12
+202193,https://lms.stasheasy.com/lead/customerInfo/202193/694689,26463,2,42,676,0,1,N,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","CITY UNION BANK,CIU-City Union Bank",ACCEPTED,0,,0,0,0,0,0,0,7
+203049,https://lms.stasheasy.com/lead/customerInfo/203049/440967,21196,3,13,676,1,1,Y,Y,Akara Capital Advisors Private Limited,"PUN-Punjab National Bank,PUNJAB NATIONAL BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+204106,https://lms.stasheasy.com/lead/customerInfo/204106/549260,40000,3,13,689,3,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+204165,https://lms.stasheasy.com/lead/customerInfo/204165/709626,22366,0,9,696,0,1,Y,Y,Akara Capital Advisors Private Limited,YES-Yes Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+204774,https://lms.stasheasy.com/lead/customerInfo/204774/603239,20276,9,11,655,1,1,Y,Y,Stashfin DMI EMI Escrow Account,AXIS BANK,ACCEPTED,0,DCB,0,0,0,1,0,0,4
+205976,https://lms.stasheasy.com/lead/customerInfo/205976/441057,14130,1,9,715,0,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","PUN-Punjab National Bank,PUNJAB NATIONAL BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,8
+206082,https://lms.stasheasy.com/lead/customerInfo/206082/564844,32979,3,12,704,0,1,Y,Y,Akara Capital Advisors Private Limited,Axis Bank Ltd,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+206467,https://lms.stasheasy.com/lead/customerInfo/206467/396150,177675,1,26,741,1,1,N,N,"AKARA CAPITAL ADVISORS P LTD,Stashfin DMI EMI Escrow Account","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,,0,0,0,0,0,1,7
+206889,https://lms.stasheasy.com/lead/customerInfo/206889/341527,14000,2,25,700,0,0,Y,Y,Akara Capital Advisors Private Limited,ICICI Bank Ltd,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+207699,https://lms.stasheasy.com/lead/customerInfo/207699/445628,12435,4,13,2,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","Axis Bank,Axis Bank Ltd,UTI-Axis Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,6
+208356,https://lms.stasheasy.com/lead/customerInfo/208356/538128,3000,0,77,676,0,0,Y,Y,Akara Capital Advisors Private Limited,CIT-Citibank,ACCEPTED,0,DCB,0,0,0,0,0,1,6
+208372,https://lms.stasheasy.com/lead/customerInfo/208372/399454,1000,2,19,684,3,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+208617,https://lms.stasheasy.com/lead/customerInfo/208617/709697,107527,2,29,651,3,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank Ltd,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+209121,https://lms.stasheasy.com/lead/customerInfo/209121/578597,36072,8,13,638,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","Axis Bank,Axis Bank Ltd,UTI-Axis Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,8
+209155,https://lms.stasheasy.com/lead/customerInfo/209155/325097,14000,3,12,693,0,0,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+210208,https://lms.stasheasy.com/lead/customerInfo/210208/556829,18514,3,12,710,1,1,Y,N,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,10
+210268,https://lms.stasheasy.com/lead/customerInfo/210268/709298,13978,3,12,676,1,1,Y,Y,Akara Capital Advisors Private Limited,SIB-South Indian Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+210965,https://lms.stasheasy.com/lead/customerInfo/210965/710012,14806,0,9,678,0,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,11
+211440,https://lms.stasheasy.com/lead/customerInfo/211440/515989,50000,0,24,710,1,0,Y,Y,Akara Capital Advisors Private Limited,IDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+211887,https://lms.stasheasy.com/lead/customerInfo/211887/628814,100000,3,13,679,2,0,Y,Y,"EQX ANALYTICS PRIVATE LIMITED,Stashfin DMI EMI Escrow Account","IND-IndusInd Bank,INDUSIND BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,2,0,0,2
+211918,https://lms.stasheasy.com/lead/customerInfo/211918/618338,8500,0,25,719,5,0,Y,Y,Akara Capital Advisors Private Limited,IDF-IDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,2,1,0,0,10
+212774,https://lms.stasheasy.com/lead/customerInfo/212774/689573,41058,9,13,745,1,1,Y,N,Akara Capital Advisors Private Limited,HDFC Bank Ltd,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+212830,https://lms.stasheasy.com/lead/customerInfo/212830/509212,3000,0,129,713,6,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,1,0,0,2
+213084,https://lms.stasheasy.com/lead/customerInfo/213084/687470,1000,0,30,694,2,0,Y,Y,"1,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+213202,https://lms.stasheasy.com/lead/customerInfo/213202/292162,60000,3,10,654,1,0,Y,Y,"1,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+213254,https://lms.stasheasy.com/lead/customerInfo/213254/391218,65613,3,8,679,1,0,Y,Y,"1,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+214741,https://lms.stasheasy.com/lead/customerInfo/214741/567544,24548,2,10,667,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+215093,https://lms.stasheasy.com/lead/customerInfo/215093/456437,12500,1,12,695,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+215254,https://lms.stasheasy.com/lead/customerInfo/215254/491185,2500,1,20,636,3,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+216278,https://lms.stasheasy.com/lead/customerInfo/216278/578715,27368,3,12,633,1,1,Y,N,Akara Capital Advisors Private Limited,"ICI-ICICI Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+216403,https://lms.stasheasy.com/lead/customerInfo/216403/600618,22865,7,13,656,1,1,Y,Y,Stashfin DMI EMI Escrow Account,ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,5
+217173,https://lms.stasheasy.com/lead/customerInfo/217173/566228,82105,3,12,726,1,1,Y,Y,DMISTASH,State Bank of India India,SENT_FOR_REGISTRATION,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,8
+217236,https://lms.stasheasy.com/lead/customerInfo/217236/629886,1500,0,7,636,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,4
+217492,https://lms.stasheasy.com/lead/customerInfo/217492/710147,16075,0,16,651,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","HDF-HDFC Bank,HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,0
+218717,https://lms.stasheasy.com/lead/customerInfo/218717/299574,20000,0,10,666,0,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+218864,https://lms.stasheasy.com/lead/customerInfo/218864/556620,68421,4,13,748,1,1,Y,Y,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","ICICI BANK,ICICI Bank Ltd",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+219182,https://lms.stasheasy.com/lead/customerInfo/219182/358639,7500,3,18,673,3,0,Y,Y,Akara Capital Advisors Private Limited,"UTI-Axis Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+219367,https://lms.stasheasy.com/lead/customerInfo/219367/488851,159504,3,11,715,1,0,Y,Y,"DMISTASH,Stashfin DMI EMI Escrow Account",KOTAK MAHINDRA BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+219946,https://lms.stasheasy.com/lead/customerInfo/219946/325909,10968,1,13,677,1,1,Y,Y,Akara Capital Advisors Private Limited,IND-INDUSIND BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+220058,https://lms.stasheasy.com/lead/customerInfo/220058/491239,40000,2,6,-1,1,0,Y,Y,Akara Capital Advisors Private Limited,IND-INDUSIND BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+220073,https://lms.stasheasy.com/lead/customerInfo/220073/321180,46652,1,14,602,2,0,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank Ltd,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+220426,https://lms.stasheasy.com/lead/customerInfo/220426/709515,10543,0,22,694,2,1,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,10
+221270,https://lms.stasheasy.com/lead/customerInfo/221270/709323,43240,1,10,633,1,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+221842,https://lms.stasheasy.com/lead/customerInfo/221842/575433,20526,0,15,676,0,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+222120,https://lms.stasheasy.com/lead/customerInfo/222120/814065,282590,3,9,660,1,2,Y,Y,EQX ANALYTICS PRIVATE LIMITED,HDF-HDFC Bank,ACCEPTED,0,MATCHMOVE FEDERAL,0,0,0,0,0,0,2
+222964,https://lms.stasheasy.com/lead/customerInfo/222964/526799,4000,7,25,694,4,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+223228,https://lms.stasheasy.com/lead/customerInfo/223228/611669,20752,3,12,757,1,1,N,N,Stashfin DMI EMI Escrow Account,HDFC Bank,ACCEPTED,0,,0,0,0,0,0,0,0
+224107,https://lms.stasheasy.com/lead/customerInfo/224107/689554,38859,1,13,686,1,1,N,N,Akara Capital Advisors Pvt Ltd,SBIN,ACCEPTED,0,,0,0,0,0,0,0,0
+224114,https://lms.stasheasy.com/lead/customerInfo/224114/565472,15000,3,8,689,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"UBI-Union Bank of India,Union Bank of India",ACCEPTED,0,DCB,0,0,0,0,0,0,3
+225567,https://lms.stasheasy.com/lead/customerInfo/225567/603297,22581,3,12,716,1,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,DCB,0,0,0,1,0,0,18
+225894,https://lms.stasheasy.com/lead/customerInfo/225894/709038,107527,6,12,661,1,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,KKB-Kotak mahindra bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+226315,https://lms.stasheasy.com/lead/customerInfo/226315/599607,27368,8,12,684,1,1,Y,Y,,,,0,"DCB,M2P FEDERAL",0,1,0,1,0,0,8
+226603,https://lms.stasheasy.com/lead/customerInfo/226603/705277,31102,1,10,679,1,1,Y,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","HDF-HDFC Bank,HDFC Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+227270,https://lms.stasheasy.com/lead/customerInfo/227270/391077,10000,1,6,715,0,1,N,N,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","AXIS BANK,Axis Bank Ltd",ACCEPTED,0,,0,0,0,0,0,0,0
+228172,https://lms.stasheasy.com/lead/customerInfo/228172/814329,170564,0,7,737,1,1,Y,N,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","ICI-ICICI Bank,ICI-ICICI BANK LTD",REJECTED,0,DCB,0,0,0,0,0,1,1
+228318,https://lms.stasheasy.com/lead/customerInfo/228318/341409,103670,0,8,713,0,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,REJECTED,0,DCB,0,0,0,0,0,1,4
+228587,https://lms.stasheasy.com/lead/customerInfo/228587/321196,46652,0,12,636,1,0,Y,Y,"1,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",REJECTED,0,DCB,0,0,0,0,0,0,1
+228619,https://lms.stasheasy.com/lead/customerInfo/228619/507846,1500,1,24,622,0,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+229401,https://lms.stasheasy.com/lead/customerInfo/229401/368167,40000,0,7,737,0,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+230668,https://lms.stasheasy.com/lead/customerInfo/230668/692517,37108,6,12,725,1,1,N,N,Akara Capital Advisors Private Limited,"SBI-State Bank of India, India",ACCEPTED,0,,0,0,0,0,0,0,3
+230829,https://lms.stasheasy.com/lead/customerInfo/230829/566110,82523,0,15,734,0,1,Y,Y,Akara Capital Advisors Private Limited,HDFC Bank Ltd,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,8
+231532,https://lms.stasheasy.com/lead/customerInfo/231532/709271,29495,0,14,680,1,2,Y,Y,AKARA CAPITAL ADVISORS P LTD,IND-INDUSIND BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+231915,https://lms.stasheasy.com/lead/customerInfo/231915/395732,294995,7,15,656,0,1,N,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","HDF-HDFC Bank,HDFC Bank",ACCEPTED,0,,0,0,0,0,0,0,1
+232071,https://lms.stasheasy.com/lead/customerInfo/232071/592853,24879,1,6,696,0,2,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+232545,https://lms.stasheasy.com/lead/customerInfo/232545/695151,17473,9,12,724,1,1,N,N,Stashfin DMI EMI Escrow Account,HDFC Bank,ACCEPTED,0,,0,0,0,0,0,0,5
+232609,https://lms.stasheasy.com/lead/customerInfo/232609/341406,31620,0,9,682,1,0,Y,Y,Akara Capital Advisors Private Limited,"YES-Yes Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+232626,https://lms.stasheasy.com/lead/customerInfo/232626/275117,65000,0,8,631,1,0,Y,Y,Akara Capital Advisors Private Limited,"ICICI Bank, India",CANCELLED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+232702,https://lms.stasheasy.com/lead/customerInfo/232702/400739,1500,9,11,713,1,0,Y,Y,Akara Capital Advisors Private Limited,"YES-Yes Bank, India",REJECTED,0,DCB,0,0,0,0,0,0,4
+232737,https://lms.stasheasy.com/lead/customerInfo/232737/709749,107527,9,12,715,1,1,Y,Y,Stashfin DMI EMI Escrow Account,ANDHRA BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+233467,https://lms.stasheasy.com/lead/customerInfo/233467/300398,34000,0,6,615,0,0,Y,Y,Akara Capital Advisors Private Limited,CBI-CENTRAL BANK OF INDIA,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+233669,https://lms.stasheasy.com/lead/customerInfo/233669/345956,40000,1,14,671,0,0,Y,Y,Akara Capital Advisors Private Limited,"ICI-ICICI Bank,ICI-ICICI Bank, India",REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+234379,https://lms.stasheasy.com/lead/customerInfo/234379/342147,3500,6,17,682,1,0,Y,Y,,,,0,DCB,0,2,0,0,0,0,3
+234411,https://lms.stasheasy.com/lead/customerInfo/234411/692349,52500,0,49,691,2,0,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+234493,https://lms.stasheasy.com/lead/customerInfo/234493/399361,9000,0,21,642,3,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,REJECTED,0,DCB,0,0,0,0,0,0,1
+234600,https://lms.stasheasy.com/lead/customerInfo/234600/341434,16588,2,12,647,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+235505,https://lms.stasheasy.com/lead/customerInfo/235505/611479,20337,1,11,685,1,1,Y,N,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+235702,https://lms.stasheasy.com/lead/customerInfo/235702/710001,15916,9,12,709,1,1,Y,Y,Stashfin DMI EMI Escrow Account,YES BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+236700,https://lms.stasheasy.com/lead/customerInfo/236700/709307,16634,1,9,715,0,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+237669,https://lms.stasheasy.com/lead/customerInfo/237669/611322,75269,9,12,540,1,1,N,N,Stashfin DMI EMI Escrow Account,HDFC Bank,ACCEPTED,0,,0,0,0,0,0,0,3
+238639,https://lms.stasheasy.com/lead/customerInfo/238639/617410,82796,7,12,696,1,1,Y,Y,Stashfin DMI EMI Escrow Account,HSBC,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,11
+238703,https://lms.stasheasy.com/lead/customerInfo/238703/709472,32290,3,12,632,1,1,Y,Y,Akara Capital Advisors Private Limited,UBI-UNION BANK OF INDIA,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+239144,https://lms.stasheasy.com/lead/customerInfo/239144/345005,65312,2,8,791,1,0,Y,Y,Akara Capital Advisors Private Limited,AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+240296,https://lms.stasheasy.com/lead/customerInfo/240296/623631,10000,1,46,650,6,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+240338,https://lms.stasheasy.com/lead/customerInfo/240338/600300,500,4,25,732,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+240853,https://lms.stasheasy.com/lead/customerInfo/240853/556454,18074,0,21,667,0,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,20
+241496,https://lms.stasheasy.com/lead/customerInfo/241496/698223,45430,9,12,755,1,1,N,N,Stashfin DMI EMI Escrow Account,Canara Bank,ACCEPTED,0,,0,0,0,0,0,0,1
+241790,https://lms.stasheasy.com/lead/customerInfo/241790/568327,30447,2,27,632,0,1,Y,Y,"1,Akara Capital Advisors Private Limited","HDF-HDFC Bank,HDFC Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,3
+242320,https://lms.stasheasy.com/lead/customerInfo/242320/556773,17789,3,9,-1,0,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,10
+242771,https://lms.stasheasy.com/lead/customerInfo/242771/345002,49934,3,8,671,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,1,0,0,1
+242902,https://lms.stasheasy.com/lead/customerInfo/242902/557701,26858,7,11,682,1,1,Y,Y,"DMISTASH,Stashfin DMI EMI Escrow Account","HDFC BANK,HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+242930,https://lms.stasheasy.com/lead/customerInfo/242930/341461,355588,0,36,708,0,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,6
+242993,https://lms.stasheasy.com/lead/customerInfo/242993/689487,50323,9,11,611,1,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+244803,https://lms.stasheasy.com/lead/customerInfo/244803/291952,50000,3,6,738,1,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+244840,https://lms.stasheasy.com/lead/customerInfo/244840/345017,49899,1,17,751,1,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+244856,https://lms.stasheasy.com/lead/customerInfo/244856/361750,500,9,15,718,1,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,2
+244864,https://lms.stasheasy.com/lead/customerInfo/244864/347240,25000,1,13,684,2,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+245028,https://lms.stasheasy.com/lead/customerInfo/245028/345024,186606,4,8,774,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+245835,https://lms.stasheasy.com/lead/customerInfo/245835/693561,46828,0,12,703,1,1,N,N,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,,0,0,0,0,0,0,0
+245865,https://lms.stasheasy.com/lead/customerInfo/245865/674295,10500,1,16,725,3,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","ICI-ICICI Bank,ICIC,ICICI Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+246517,https://lms.stasheasy.com/lead/customerInfo/246517/569892,12417,1,6,621,0,2,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,8
+247393,https://lms.stasheasy.com/lead/customerInfo/247393/812730,84082,9,8,660,1,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,2
+248238,https://lms.stasheasy.com/lead/customerInfo/248238/410639,769,4,36,717,0,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+248306,https://lms.stasheasy.com/lead/customerInfo/248306/610829,29770,9,13,723,1,1,Y,N,Stashfin DMI EMI Escrow Account,CITIBANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+248430,https://lms.stasheasy.com/lead/customerInfo/248430/351763,104318,3,7,689,1,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,8
+248798,https://lms.stasheasy.com/lead/customerInfo/248798/695710,31452,3,10,682,1,2,Y,Y,"DMISTASH,Stashfin DMI EMI Escrow Account",Oriental Bank of Commerce,REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,6
+249573,https://lms.stasheasy.com/lead/customerInfo/249573/611604,18817,2,11,694,1,1,N,N,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,,0,0,0,0,0,0,1
+249790,https://lms.stasheasy.com/lead/customerInfo/249790/704013,24795,3,12,669,1,1,Y,N,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,4
+251318,https://lms.stasheasy.com/lead/customerInfo/251318/464140,200000,3,6,672,1,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,3
+252416,https://lms.stasheasy.com/lead/customerInfo/252416/568264,21553,0,11,709,1,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank,HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,1,0,0,0,0,7
+252526,https://lms.stasheasy.com/lead/customerInfo/252526/599451,34211,2,9,682,0,1,Y,Y,Akara Capital Advisors Private Limited,"BKI-Bank of India, India",ACCEPTED,0,DCB,0,0,0,3,0,0,15
+252944,https://lms.stasheasy.com/lead/customerInfo/252944/709861,34946,8,11,672,1,1,Y,Y,Stashfin DMI EMI Escrow Account,ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+253542,https://lms.stasheasy.com/lead/customerInfo/253542/689652,41935,7,10,752,1,1,Y,N,"DMISTASH,Stashfin DMI EMI Escrow Account","THE SARASWAT CO-OP. BANK LTD,THE SARASWAT COOP BANK LTD",ACCEPTED,0,DCB,0,0,0,0,0,0,6
+254831,https://lms.stasheasy.com/lead/customerInfo/254831/709770,23484,8,11,652,1,1,Y,Y,Stashfin DMI EMI Escrow Account,CITY UNION BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,4
+255258,https://lms.stasheasy.com/lead/customerInfo/255258/814305,36269,3,8,690,1,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,1
+255804,https://lms.stasheasy.com/lead/customerInfo/255804/556480,53072,0,6,637,0,1,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",1,0,0,0,0,0,4
+256940,https://lms.stasheasy.com/lead/customerInfo/256940/572205,9000,3,6,676,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","AND-Andhra Bank,Andhra Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+257888,https://lms.stasheasy.com/lead/customerInfo/257888/397567,9500,1,25,714,0,0,Y,Y,Akara Capital Advisors Private Limited,YES-Yes Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,20
+258327,https://lms.stasheasy.com/lead/customerInfo/258327/554432,10000,0,27,710,3,0,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED",SBI-State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+258517,https://lms.stasheasy.com/lead/customerInfo/258517/709699,27258,1,11,686,1,1,Y,Y,Akara Capital Advisors Private Limited,YES-Yes Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+258727,https://lms.stasheasy.com/lead/customerInfo/258727/490089,6000,1,36,670,0,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,DCB,0,1,0,0,0,0,4
+258805,https://lms.stasheasy.com/lead/customerInfo/258805/795638,12843,4,11,739,1,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+260197,https://lms.stasheasy.com/lead/customerInfo/260197/559521,102632,1,11,739,1,1,Y,Y,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+260214,https://lms.stasheasy.com/lead/customerInfo/260214/709648,13978,7,7,679,0,1,Y,Y,Stashfin DMI EMI Escrow Account,CENTRAL BANK OF INDIA,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,1,0,0,0,0,4
+260777,https://lms.stasheasy.com/lead/customerInfo/260777/501140,11000,7,18,631,2,0,Y,Y,"1,AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,2
+261534,https://lms.stasheasy.com/lead/customerInfo/261534/709519,41935,8,11,712,1,1,Y,Y,Stashfin DMI EMI Escrow Account,AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+263237,https://lms.stasheasy.com/lead/customerInfo/263237/709330,104839,8,11,694,1,1,Y,Y,Stashfin DMI EMI Escrow Account,AXIS BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,16
+264964,https://lms.stasheasy.com/lead/customerInfo/264964/372203,124404,6,12,712,0,0,Y,Y,"1,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",REJECTED,0,"DCB,M2P FEDERAL",0,1,0,0,0,0,3
+265035,https://lms.stasheasy.com/lead/customerInfo/265035/525298,60000,1,7,714,1,0,Y,Y,Akara Capital Advisors Private Limited,YES-Yes Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,5
+265109,https://lms.stasheasy.com/lead/customerInfo/265109/365502,10000,4,6,734,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","CIT-Citibank,CITI BANK",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+266013,https://lms.stasheasy.com/lead/customerInfo/266013/706028,22436,2,11,674,1,1,N,N,Akara Capital Advisors Private Limited,GBC-THE GREATER BOMBAY CO-OP. BANK LTD,ACCEPTED,0,,0,0,0,0,0,1,0
+267576,https://lms.stasheasy.com/lead/customerInfo/267576/486543,5000,0,52,709,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited",ICI-ICICI Bank,REJECTED,0,DCB,0,0,0,0,0,0,5
+268051,https://lms.stasheasy.com/lead/customerInfo/268051/571896,105263,0,11,739,1,1,N,N,Akara Capital Advisors Private Limited,"HDF-HDFC Bank, India",ACCEPTED,0,,0,0,0,0,0,0,2
+269238,https://lms.stasheasy.com/lead/customerInfo/269238/709522,29849,2,10,698,1,2,Y,Y,"DMISTASH,Stashfin DMI EMI Escrow Account",AXIS BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+269440,https://lms.stasheasy.com/lead/customerInfo/269440/812731,361694,9,8,712,1,0,N,N,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,,0,0,0,0,0,0,0
+269638,https://lms.stasheasy.com/lead/customerInfo/269638/709588,36344,1,11,733,1,1,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,1,0,0,5
+270492,https://lms.stasheasy.com/lead/customerInfo/270492/391711,45500,2,7,733,1,0,Y,Y,Akara Capital Advisors Private Limited,KOTAK MAHINDRA BANK,CANCELLED,0,DCB,0,0,0,0,0,0,0
+272027,https://lms.stasheasy.com/lead/customerInfo/272027/812732,280908,3,10,594,1,1,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"SBI-State Bank of India,STATE BANK OF INDIA",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,14
+272277,https://lms.stasheasy.com/lead/customerInfo/272277/357590,8000,3,12,694,0,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+272673,https://lms.stasheasy.com/lead/customerInfo/272673/711630,19360,9,11,628,1,1,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,1,0,1,0,2,9
+276414,https://lms.stasheasy.com/lead/customerInfo/276414/702741,22366,8,11,714,1,1,Y,N,Stashfin DMI EMI Escrow Account,Oriental Bank of Commerce,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+276516,https://lms.stasheasy.com/lead/customerInfo/276516/707170,23894,8,11,746,1,1,Y,N,Stashfin DMI EMI Escrow Account,AXIS BANK,ACCEPTED,0,DCB,0,0,0,1,0,0,0
+276550,https://lms.stasheasy.com/lead/customerInfo/276550/816744,58638,7,7,725,1,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank, India,ICICI Bank, India",ACCEPTED,0,DCB,0,0,0,0,0,0,0
+276741,https://lms.stasheasy.com/lead/customerInfo/276741/709126,34247,2,30,615,0,1,Y,Y,"1,Akara Capital Advisors Private Limited","ICI-Kotak Mahindra Bank,Kotak Mahindra Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,2
+281469,https://lms.stasheasy.com/lead/customerInfo/281469/410643,47170,7,7,658,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+283938,https://lms.stasheasy.com/lead/customerInfo/283938/373685,32000,9,10,694,2,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,2,0,0,3
+285247,https://lms.stasheasy.com/lead/customerInfo/285247/812472,36818,9,10,676,1,1,N,N,EQX ANALYTICS PRIVATE LIMITED,HDFC Bank,ACCEPTED,0,,0,0,0,0,0,0,4
+285363,https://lms.stasheasy.com/lead/customerInfo/285363/679633,25000,6,8,1,2,1,Y,Y,EQX ANALYTICS PRIVATE LIMITED,SCB-Standard Chartered Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,1,14
+286705,https://lms.stasheasy.com/lead/customerInfo/286705/627446,8680,3,8,682,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,0,0,1,9
+286931,https://lms.stasheasy.com/lead/customerInfo/286931/812675,175863,8,10,601,1,1,N,N,EQX ANALYTICS PRIVATE LIMITED,"KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",REJECTED,0,,0,0,0,0,0,0,2
+288271,https://lms.stasheasy.com/lead/customerInfo/288271/383985,9000,2,18,716,3,0,Y,Y,Akara Capital Advisors Private Limited,SBI-State Bank of India,ACCEPTED,0,DCB,0,1,0,0,0,0,6
+288326,https://lms.stasheasy.com/lead/customerInfo/288326/614409,5000,0,24,719,0,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,5
+289504,https://lms.stasheasy.com/lead/customerInfo/289504/465157,103670,9,6,675,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","KAR-KARNATAKA BANK,Karnataka Bank",REJECTED,0,DCB,0,0,0,0,0,0,2
+290495,https://lms.stasheasy.com/lead/customerInfo/290495/424843,20000,0,15,-1,2,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,2
+290728,https://lms.stasheasy.com/lead/customerInfo/290728/431403,49762,0,8,762,1,0,Y,Y,Akara Capital Advisors Private Limited,IDF-IDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,6
+290737,https://lms.stasheasy.com/lead/customerInfo/290737/459906,25000,4,9,670,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,REJECTED,0,DCB,0,0,0,0,0,0,4
+290867,https://lms.stasheasy.com/lead/customerInfo/290867/420580,55464,1,7,694,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+291035,https://lms.stasheasy.com/lead/customerInfo/291035/496932,1000,0,20,-1,1,0,Y,Y,,,,0,DCB,0,0,0,0,0,0,0
+292095,https://lms.stasheasy.com/lead/customerInfo/292095/611490,24344,1,11,637,1,1,N,N,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,,0,0,0,0,0,0,1
+292144,https://lms.stasheasy.com/lead/customerInfo/292144/710168,14391,3,10,684,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,2,0,0,2
+292322,https://lms.stasheasy.com/lead/customerInfo/292322/471976,51000,0,6,715,1,0,Y,Y,Akara Capital Advisors Private Limited,UTI-Axis Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+292782,https://lms.stasheasy.com/lead/customerInfo/292782/720999,1000,1,22,676,3,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+293148,https://lms.stasheasy.com/lead/customerInfo/293148/710038,14957,3,10,710,1,1,Y,Y,Akara Capital Advisors Private Limited,YES-Yes Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,5
+293382,https://lms.stasheasy.com/lead/customerInfo/293382/536539,8500,3,21,761,3,0,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED",KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,0,0,0,19
+293632,https://lms.stasheasy.com/lead/customerInfo/293632/436709,71532,0,19,732,0,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,9
+294352,https://lms.stasheasy.com/lead/customerInfo/294352/709136,46129,6,10,629,1,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,0,4
+294782,https://lms.stasheasy.com/lead/customerInfo/294782/645990,2000,2,8,715,2,0,Y,Y,,,,0,DCB,0,0,0,2,0,0,7
+295418,https://lms.stasheasy.com/lead/customerInfo/295418/812446,90153,7,10,698,1,1,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"SBI-State Bank of India,STATE BANK OF INDIA",REJECTED,0,DCB,0,0,0,0,0,0,2
+299407,https://lms.stasheasy.com/lead/customerInfo/299407/685971,34946,2,10,702,1,1,Y,Y,Stashfin DMI EMI Escrow Account,IDBI BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+300416,https://lms.stasheasy.com/lead/customerInfo/300416/450588,7500,2,12,-1,2,0,Y,Y,"1,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+300540,https://lms.stasheasy.com/lead/customerInfo/300540/401291,12000,1,10,722,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+300666,https://lms.stasheasy.com/lead/customerInfo/300666/684809,24882,1,10,677,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","HDF-HDFC Bank,HDFC Bank",ACCEPTED,0,DCB,0,0,0,0,0,1,3
+303586,https://lms.stasheasy.com/lead/customerInfo/303586/556465,20526,1,10,671,1,1,Y,Y,"1,Akara Capital Advisors Private Limited","YES BANK,YES-Yes Bank",ACCEPTED,0,DCB,0,1,0,0,0,0,2
+303613,https://lms.stasheasy.com/lead/customerInfo/303613/682069,100000,5,9,751,1,0,N,N,"Akara Capital Advisors Private Limited,Stashfin DMI EMI Escrow Account","SBI-State Bank of India,STATE BANK OF INDIA",ACCEPTED,0,,0,2,0,0,0,0,14
+304307,https://lms.stasheasy.com/lead/customerInfo/304307/710973,50159,0,12,640,1,1,Y,Y,"Akara Capital Advisors Private Limited,EQX ANALYTICS PRIVATE LIMITED","ICI-ICICI Bank,ICIC",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+304773,https://lms.stasheasy.com/lead/customerInfo/304773/453133,3500,7,19,710,3,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,1,0,0,6
+305076,https://lms.stasheasy.com/lead/customerInfo/305076/558142,23000,3,20,627,3,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-Citibank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,1,0,14
+305134,https://lms.stasheasy.com/lead/customerInfo/305134/812669,187136,9,7,681,1,0,Y,N,EQX ANALYTICS PRIVATE LIMITED,"SCB-Standard Chartered Bank,Standard Chartered Bank",ACCEPTED,0,M2P FEDERAL,0,1,0,0,0,0,11
+307364,https://lms.stasheasy.com/lead/customerInfo/307364/454951,62202,4,6,589,1,0,Y,Y,Akara Capital Advisors Private Limited,UTI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+307839,https://lms.stasheasy.com/lead/customerInfo/307839/686921,44382,9,10,684,1,1,N,N,EQX ANALYTICS PRIVATE LIMITED,"YES BANK,YES-Yes Bank",ACCEPTED,0,,0,0,0,0,0,0,1
+308400,https://lms.stasheasy.com/lead/customerInfo/308400/700295,500,1,9,744,0,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,ICIC,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+309111,https://lms.stasheasy.com/lead/customerInfo/309111/709527,11882,4,10,719,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited,AKARASTASH","YES BANK,YES-Yes Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,11
+311108,https://lms.stasheasy.com/lead/customerInfo/311108/380640,50000,2,8,631,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,20000,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,2,5
+311925,https://lms.stasheasy.com/lead/customerInfo/311925/710083,24462,1,10,694,1,1,Y,Y,"DMISTASH,Stashfin DMI EMI Escrow Account",KOTAK MAHINDRA BANK,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+312098,https://lms.stasheasy.com/lead/customerInfo/312098/711900,15376,0,10,517,1,1,Y,Y,"DMISTASH,Stashfin DMI EMI Escrow Account",State Bank of India,REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,4,0,1,1
+313497,https://lms.stasheasy.com/lead/customerInfo/313497/459282,1000,2,9,-1,0,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+314740,https://lms.stasheasy.com/lead/customerInfo/314740/711362,40681,1,10,734,1,1,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,0,0,1,2
+314766,https://lms.stasheasy.com/lead/customerInfo/314766/674028,1000,1,27,719,6,0,Y,Y,Akara Capital Advisors Private Limited,ICI-ICICI Bank,ACCEPTED,10000,DCB,0,0,0,0,0,0,2
+315440,https://lms.stasheasy.com/lead/customerInfo/315440/702594,26280,1,10,686,1,1,N,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","HDF-ICICI Bank,ICICI Bank",ACCEPTED,0,,0,0,0,0,0,0,2
+315656,https://lms.stasheasy.com/lead/customerInfo/315656/684909,44382,2,10,670,1,1,N,N,"DMISTASH,Stashfin DMI EMI Escrow Account",AXIS BANK,ACCEPTED,0,,0,0,0,0,0,0,0
+315938,https://lms.stasheasy.com/lead/customerInfo/315938/661485,6000,2,9,642,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+315952,https://lms.stasheasy.com/lead/customerInfo/315952/474891,75500,6,10,577,2,0,Y,Y,,,,20000,"DCB,M2P FEDERAL",0,0,0,0,0,0,4
+317246,https://lms.stasheasy.com/lead/customerInfo/317246/813874,94080,1,7,715,1,0,N,N,EQX ANALYTICS PRIVATE LIMITED,KKB-Kotak mahindra bank,ACCEPTED,0,,0,0,0,0,0,0,3
+317634,https://lms.stasheasy.com/lead/customerInfo/317634/709366,44731,1,10,720,1,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,1,3
+319982,https://lms.stasheasy.com/lead/customerInfo/319982/659531,21500,3,7,713,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,3
+320554,https://lms.stasheasy.com/lead/customerInfo/320554/537825,160000,2,8,671,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+320678,https://lms.stasheasy.com/lead/customerInfo/320678/461157,136843,4,6,766,1,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+320831,https://lms.stasheasy.com/lead/customerInfo/320831/461161,124404,4,6,671,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,5
+321548,https://lms.stasheasy.com/lead/customerInfo/321548/712676,38441,0,9,681,1,1,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+321922,https://lms.stasheasy.com/lead/customerInfo/321922/471962,500,3,15,675,0,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,SCB-Standard Chartered Bank,ACCEPTED,0,DCB,0,0,0,0,0,1,6
+321992,https://lms.stasheasy.com/lead/customerInfo/321992/461160,16588,6,6,685,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,5
+322123,https://lms.stasheasy.com/lead/customerInfo/322123/795794,12581,0,9,697,1,1,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"Axis Bank,UTI-Axis Bank",REJECTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+322428,https://lms.stasheasy.com/lead/customerInfo/322428/689672,41935,8,10,690,1,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,UCB-UCO Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+323525,https://lms.stasheasy.com/lead/customerInfo/323525/461176,104085,4,6,782,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited",HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,5
+323616,https://lms.stasheasy.com/lead/customerInfo/323616/612358,5500,4,12,657,2,0,Y,Y,Akara Capital Advisors Private Limited,KKB-Kotak mahindra bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,1,3
+323735,https://lms.stasheasy.com/lead/customerInfo/323735/461180,23939,4,6,679,1,0,Y,Y,Akara Capital Advisors Private Limited,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+323746,https://lms.stasheasy.com/lead/customerInfo/323746/706500,21092,7,10,638,1,1,N,N,"DMISTASH,Stashfin DMI EMI Escrow Account","ICICI BANK,ICICI Bank, India",ACCEPTED,0,,0,0,0,0,0,1,2
+324880,https://lms.stasheasy.com/lead/customerInfo/324880/521918,15000,1,8,1,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,IBK-IDBI BANK,ACCEPTED,10000,DCB,0,0,0,0,0,0,1
+325364,https://lms.stasheasy.com/lead/customerInfo/325364/693572,37130,8,10,648,1,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+326654,https://lms.stasheasy.com/lead/customerInfo/326654/492102,362845,1,6,-1,1,0,Y,Y,,,,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+328622,https://lms.stasheasy.com/lead/customerInfo/328622/812563,484198,3,6,694,1,0,N,N,EQX ANALYTICS PRIVATE LIMITED,"ORB-Oriental Bank of Commerce,Oriental Bank of Commerce",REJECTED,0,,0,0,0,0,0,0,6
+328717,https://lms.stasheasy.com/lead/customerInfo/328717/689278,38441,8,10,705,1,1,N,N,"AKARA CAPITAL ADVISORS P LTD,AKARASTASH","HDF-HDFC Bank,HDFC Bank",ACCEPTED,0,,0,0,0,0,0,0,2
+329679,https://lms.stasheasy.com/lead/customerInfo/329679/709316,13978,7,10,714,1,1,Y,Y,"DMISTASH,Stashfin DMI EMI Escrow Account",State Bank of India,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,2,14
+331051,https://lms.stasheasy.com/lead/customerInfo/331051/822599,116398,3,6,723,1,0,N,N,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICIC,ICICI Bank",ACCEPTED,0,,0,0,0,0,0,0,1
+331554,https://lms.stasheasy.com/lead/customerInfo/331554/501826,61500,1,9,744,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,6
+333013,https://lms.stasheasy.com/lead/customerInfo/333013/447478,300000,1,7,772,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,2,0,0,0
+333207,https://lms.stasheasy.com/lead/customerInfo/333207/813859,342012,6,6,732,1,0,Y,N,EQX ANALYTICS PRIVATE LIMITED,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+333335,https://lms.stasheasy.com/lead/customerInfo/333335/696463,27957,1,12,676,1,1,N,N,"AKARA CAPITAL ADVISORS P LTD,EQX ANALYTICS PRIVATE LIMITED","HDF-HDFC Bank,HDFC",ACCEPTED,0,,0,0,0,2,0,0,4
+333694,https://lms.stasheasy.com/lead/customerInfo/333694/486135,295459,1,6,708,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-CITI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,2
+333799,https://lms.stasheasy.com/lead/customerInfo/333799/566113,55000,2,8,676,2,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,EQX ANALYTICS PRIVATE LIMITED","HDF-HDFC Bank,HDFC",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,14
+334350,https://lms.stasheasy.com/lead/customerInfo/334350/657205,4500,4,13,646,0,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,12
+334547,https://lms.stasheasy.com/lead/customerInfo/334547/656446,18000,3,10,671,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,0
+334817,https://lms.stasheasy.com/lead/customerInfo/334817/480885,1036,6,26,700,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,0,0,1,2
+335161,https://lms.stasheasy.com/lead/customerInfo/335161/568598,6500,0,14,708,2,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,AKARASTASH","CIT-Citibank,Citibank",ACCEPTED,0,DCB,0,0,0,0,0,2,4
+335754,https://lms.stasheasy.com/lead/customerInfo/335754/492098,103670,1,6,736,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-Citibank,ACCEPTED,0,DCB,0,0,0,0,0,0,5
+335773,https://lms.stasheasy.com/lead/customerInfo/335773/813993,339406,9,6,717,1,0,N,N,EQX ANALYTICS PRIVATE LIMITED,HDFC Bank,ACCEPTED,0,,0,0,0,0,0,0,2
+336259,https://lms.stasheasy.com/lead/customerInfo/336259/487661,10000,2,11,725,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,KKB-Kotak mahindra bank,ACCEPTED,0,DCB,0,0,0,0,0,1,1
+337963,https://lms.stasheasy.com/lead/customerInfo/337963/689303,25420,1,9,600,1,1,N,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",ACCEPTED,0,,0,0,0,0,0,0,7
+339527,https://lms.stasheasy.com/lead/customerInfo/339527/492094,65830,2,6,746,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+339774,https://lms.stasheasy.com/lead/customerInfo/339774/570210,5000,2,15,646,3,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,2
+340053,https://lms.stasheasy.com/lead/customerInfo/340053/475355,15000,0,6,733,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,IDF-IDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,4
+340078,https://lms.stasheasy.com/lead/customerInfo/340078/454408,6000,0,6,766,0,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-CITI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+340095,https://lms.stasheasy.com/lead/customerInfo/340095/568729,11500,1,8,656,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-CITI BANK,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,1,3
+340153,https://lms.stasheasy.com/lead/customerInfo/340153/500021,36285,1,6,762,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,3
+340160,https://lms.stasheasy.com/lead/customerInfo/340160/492757,62202,1,18,-1,0,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-CITI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+340215,https://lms.stasheasy.com/lead/customerInfo/340215/461991,60000,1,11,648,0,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+340272,https://lms.stasheasy.com/lead/customerInfo/340272/499895,3000,1,14,705,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+340302,https://lms.stasheasy.com/lead/customerInfo/340302/576296,81000,1,15,759,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-CITI BANK,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,1,0,3
+340326,https://lms.stasheasy.com/lead/customerInfo/340326/492744,77753,0,6,822,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",REJECTED,0,DCB,0,0,0,0,0,0,8
+340398,https://lms.stasheasy.com/lead/customerInfo/340398/541005,5500,1,9,641,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,ICI-ICICI Bank,ACCEPTED,0,DCB,0,0,0,0,0,1,7
+340409,https://lms.stasheasy.com/lead/customerInfo/340409/497510,62098,1,6,676,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-Citibank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,12
+340432,https://lms.stasheasy.com/lead/customerInfo/340432/492748,45614,2,6,702,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,DCB,0,0,0,3,0,0,2
+340441,https://lms.stasheasy.com/lead/customerInfo/340441/497509,62202,0,6,726,1,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,9
+340452,https://lms.stasheasy.com/lead/customerInfo/340452/492747,20734,1,9,625,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-Citibank,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+340946,https://lms.stasheasy.com/lead/customerInfo/340946/812419,88108,6,13,714,3,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,EQX ANALYTICS PRIVATE LIMITED","Axis Bank,UTI-Axis Bank",ACCEPTED,0,DCB,0,0,0,0,0,0,10
+345273,https://lms.stasheasy.com/lead/customerInfo/345273/709946,48925,2,9,707,1,1,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICIC,ICICI Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,19
+345668,https://lms.stasheasy.com/lead/customerInfo/345668/525113,2000,1,9,666,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-CITI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,3
+345682,https://lms.stasheasy.com/lead/customerInfo/345682/505116,31000,1,9,736,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-CITI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,1
+345751,https://lms.stasheasy.com/lead/customerInfo/345751/497506,11404,1,10,750,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,CIT-CITI BANK,ACCEPTED,0,DCB,0,0,0,0,0,0,4
+345829,https://lms.stasheasy.com/lead/customerInfo/345829/623657,6500,2,13,637,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,1,1,3
+345937,https://lms.stasheasy.com/lead/customerInfo/345937/635744,20000,3,33,712,5,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",1,0,0,0,0,0,4
+347022,https://lms.stasheasy.com/lead/customerInfo/347022/500026,52872,0,7,737,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,12
+347251,https://lms.stasheasy.com/lead/customerInfo/347251/625381,22000,1,16,737,3,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+349733,https://lms.stasheasy.com/lead/customerInfo/349733/644418,2000,1,12,634,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,3
+349816,https://lms.stasheasy.com/lead/customerInfo/349816/552570,800,2,9,618,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,4
+350087,https://lms.stasheasy.com/lead/customerInfo/350087/624564,10500,0,21,744,4,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,4
+350118,https://lms.stasheasy.com/lead/customerInfo/350118/521758,10000,1,14,694,3,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,0
+350258,https://lms.stasheasy.com/lead/customerInfo/350258/618106,30000,1,16,690,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+350709,https://lms.stasheasy.com/lead/customerInfo/350709/624868,84000,1,17,697,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,1,0,0,3
+350887,https://lms.stasheasy.com/lead/customerInfo/350887/689666,28103,7,9,692,1,1,N,N,,,,0,,0,0,0,1,0,0,0
+350943,https://lms.stasheasy.com/lead/customerInfo/350943/575541,18000,0,13,659,3,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,10
+352303,https://lms.stasheasy.com/lead/customerInfo/352303/521136,5000,1,9,642,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,REJECTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,1,1
+352855,https://lms.stasheasy.com/lead/customerInfo/352855/687324,2000,0,12,705,0,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,EQX ANALYTICS PRIVATE LIMITED","HDF-HDFC Bank,HDFC",ACCEPTED,0,DCB,0,0,0,1,0,0,6
+353374,https://lms.stasheasy.com/lead/customerInfo/353374/817307,88130,3,6,662,1,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"Axis Bank,UTI-Axis Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+353873,https://lms.stasheasy.com/lead/customerInfo/353873/689454,17473,6,9,694,1,1,N,N,"DMISTASH,Stashfin DMI EMI Escrow Account",AXIS BANK,REJECTED,0,,0,0,0,0,0,0,5
+354922,https://lms.stasheasy.com/lead/customerInfo/354922/647809,13500,3,6,666,0,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,CIT-Citibank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,1,0,5
+355185,https://lms.stasheasy.com/lead/customerInfo/355185/635069,20000,0,39,727,0,0,Y,Y,,,,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,7
+356746,https://lms.stasheasy.com/lead/customerInfo/356746/709076,31452,0,9,689,1,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,5
+358698,https://lms.stasheasy.com/lead/customerInfo/358698/695961,26671,2,10,680,1,1,N,N,",Stashfin DMI EMI Escrow Account","HDFC BANK,HDFC Bank Ltd",ACCEPTED,0,,0,0,0,0,0,0,0
+358739,https://lms.stasheasy.com/lead/customerInfo/358739/527633,11000,0,9,-1,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,REJECTED,0,DCB,0,0,0,1,0,0,5
+360165,https://lms.stasheasy.com/lead/customerInfo/360165/657335,34000,6,11,640,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,20000,"DCB,M2P FEDERAL",0,0,0,0,0,0,6
+360410,https://lms.stasheasy.com/lead/customerInfo/360410/678256,40500,3,6,672,1,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,16
+360537,https://lms.stasheasy.com/lead/customerInfo/360537/703580,20405,3,9,697,1,1,Y,Y,AKARA CAPITAL ADVISORS P LTD,ORB-Oriental Bank of Commerce,ACCEPTED,0,DCB,0,0,0,0,0,0,4
+360959,https://lms.stasheasy.com/lead/customerInfo/360959/708493,1000,3,7,658,1,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,EQX ANALYTICS PRIVATE LIMITED","ICI-ICICI Bank,ICIC",ACCEPTED,0,DCB,0,0,0,0,0,0,2
+361864,https://lms.stasheasy.com/lead/customerInfo/361864/689367,17473,1,9,675,1,1,N,N,AKARA CAPITAL ADVISORS P LTD,KKB-Kotak mahindra bank,ACCEPTED,0,,0,0,0,0,0,0,0
+363858,https://lms.stasheasy.com/lead/customerInfo/363858/706044,20968,1,9,737,1,1,N,N,AKARA CAPITAL ADVISORS P LTD,COR-CORPORATION BANK,ACCEPTED,0,,0,0,0,0,0,0,2
+364382,https://lms.stasheasy.com/lead/customerInfo/364382/580043,25000,3,8,608,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,HDF-HDFC Bank,ACCEPTED,0,DCB,0,0,0,0,0,0,7
+366369,https://lms.stasheasy.com/lead/customerInfo/366369/490143,6000,2,10,703,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"HDF-HDFC Bank,HDFC",ACCEPTED,10000,DCB,0,0,0,0,0,0,1
+367774,https://lms.stasheasy.com/lead/customerInfo/367774/689950,20968,3,9,704,1,1,N,N,,,,0,,0,0,0,0,0,0,5
+369311,https://lms.stasheasy.com/lead/customerInfo/369311/622914,11500,0,8,589,1,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,CNR-Canara Bank,REJECTED,0,MATCHMOVE FEDERAL,0,0,0,0,3,3,24
+370612,https://lms.stasheasy.com/lead/customerInfo/370612/709536,18172,1,9,597,1,1,Y,Y,Stashfin DMI EMI Escrow Account,AXIS BANK,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,9
+373979,https://lms.stasheasy.com/lead/customerInfo/373979/496344,35000,9,8,623,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"Axis Bank,UTI-Axis Bank",ACCEPTED,20000,"DCB,M2P FEDERAL",0,0,0,0,0,0,1
+374458,https://lms.stasheasy.com/lead/customerInfo/374458/539618,6500,3,6,676,0,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"Axis Bank,UTI-Axis Bank",ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,7
+376420,https://lms.stasheasy.com/lead/customerInfo/376420/544851,25500,1,8,628,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,SCB-Standard Chartered Bank,ACCEPTED,10000,DCB,0,0,0,0,0,1,8
+376990,https://lms.stasheasy.com/lead/customerInfo/376990/820758,90645,3,6,687,1,0,N,N,EQX ANALYTICS PRIVATE LIMITED,HDF-HDFC Bank,ACCEPTED,0,,0,0,0,2,0,0,3
+383468,https://lms.stasheasy.com/lead/customerInfo/383468/627048,6500,3,8,734,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+384131,https://lms.stasheasy.com/lead/customerInfo/384131/496548,37000,0,10,698,2,0,Y,Y,,,,0,DCB,0,0,0,1,0,0,1
+385729,https://lms.stasheasy.com/lead/customerInfo/385729/488010,15000,1,10,713,2,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,20000,"DCB,MATCHMOVE FEDERAL",0,0,0,1,0,1,5
+387637,https://lms.stasheasy.com/lead/customerInfo/387637/521881,5000,2,8,700,1,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"HDF-HDFC Bank,HDFC",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,1,1,0,12
+388106,https://lms.stasheasy.com/lead/customerInfo/388106/539052,30000,0,8,676,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"HDF-HDFC Bank,HDFC",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+389555,https://lms.stasheasy.com/lead/customerInfo/389555/513217,27000,3,9,681,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,KKB-Kotak mahindra bank,ACCEPTED,10000,DCB,0,1,0,0,0,0,2
+390884,https://lms.stasheasy.com/lead/customerInfo/390884/510655,40000,3,15,627,3,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICIC",ACCEPTED,0,MATCHMOVE FEDERAL,0,0,0,0,0,0,2
+397724,https://lms.stasheasy.com/lead/customerInfo/397724/516452,16000,1,8,642,0,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,20000,"DCB,MATCHMOVE FEDERAL",0,0,0,2,0,0,8
+399417,https://lms.stasheasy.com/lead/customerInfo/399417/580044,12000,3,6,649,0,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICICI Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,1,1,8
+400246,https://lms.stasheasy.com/lead/customerInfo/400246/641193,60000,0,12,734,0,0,Y,Y,,,,20000,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,2
+404128,https://lms.stasheasy.com/lead/customerInfo/404128/620101,14630,0,8,676,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"SBI-State Bank of India, India,STATE BANK OF INDIA",REJECTED,0,MATCHMOVE FEDERAL,0,0,0,0,0,0,2
+405030,https://lms.stasheasy.com/lead/customerInfo/405030/685052,27957,3,7,710,1,1,N,N,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","KKB-KOTAK MAHINDRA BANK,Kotak Mahindra Bank",ACCEPTED,0,,0,0,0,0,0,0,1
+406710,https://lms.stasheasy.com/lead/customerInfo/406710/538718,44500,0,8,636,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,IND-INDUSIND BANK,REJECTED,10000,DCB,0,0,0,0,0,1,7
+412048,https://lms.stasheasy.com/lead/customerInfo/412048/546046,23500,0,6,1,0,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,IDI-Indian Bank,REJECTED,10000,DCB,0,0,0,0,0,0,11
+428521,https://lms.stasheasy.com/lead/customerInfo/428521/555618,50000,0,8,671,2,0,Y,Y,,,,20000,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,3
+430932,https://lms.stasheasy.com/lead/customerInfo/430932/566486,30000,3,6,693,0,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,CIT-Citibank,ACCEPTED,0,MATCHMOVE FEDERAL,0,0,0,0,0,0,7
+433058,https://lms.stasheasy.com/lead/customerInfo/433058/576585,120000,0,14,675,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,"ICI-ICICI Bank,ICIC,ICICI Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,6
+433703,https://lms.stasheasy.com/lead/customerInfo/433703/565126,78000,4,6,708,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,HDF-HDFC Bank,ACCEPTED,10000,DCB,0,0,0,0,0,0,2
+439931,https://lms.stasheasy.com/lead/customerInfo/439931/743253,10000,3,10,689,3,0,Y,Y,"AKARA CAPITAL ADVISORS P LTD,Akara Capital Advisors Private Limited","Axis Bank,UTI-Axis Bank",ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,0
+448188,https://lms.stasheasy.com/lead/customerInfo/448188/584889,15000,1,6,677,1,0,Y,Y,AKARA CAPITAL ADVISORS P LTD,HDF-HDFC Bank,ACCEPTED,0,"DCB,MATCHMOVE FEDERAL",0,0,0,0,0,0,1
+449876,https://lms.stasheasy.com/lead/customerInfo/449876/603243,20140,3,7,661,2,0,Y,Y,EQX ANALYTICS PRIVATE LIMITED,CIT-Citibank,ACCEPTED,0,"DCB,M2P FEDERAL",0,0,0,0,0,0,4
+481152,https://lms.stasheasy.com/lead/customerInfo/481152/627915,500,0,9,-1,0,0,Y,Y,,,,0,M2P FEDERAL,0,0,0,0,0,0,0
+489616,https://lms.stasheasy.com/lead/customerInfo/489616/703940,50000,0,9,676,3,0,Y,Y,,,,0,DCB,0,0,0,0,0,1,7
+517093,https://lms.stasheasy.com/lead/customerInfo/517093/710024,49000,0,17,702,1,0,Y,Y,,,,0,DCB,0,0,0,0,0,2,3
